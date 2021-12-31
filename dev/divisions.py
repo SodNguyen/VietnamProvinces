@@ -47,11 +47,11 @@ def abbreviate_doub_codename(name: str) -> str:
 
 
 class WardCSVInputRow(NamedTuple):
-    province_name: str
+    province: str
     province_code: int
-    district_name: str
+    district: str
     district_code: int
-    ward_name: str
+    ward: str
     ward_code: int
 
     @classmethod
@@ -60,28 +60,28 @@ class WardCSVInputRow(NamedTuple):
 
 
 class WardCSVRecord(BaseModel):
-    province_name: Name
+    province: Name
     province_code: int
-    province_codename: Optional[str]
-    district_name: Name
+    # province_codename: Optional[str]
+    district: Name
     district_code: int
-    district_codename: Optional[str]
+    # district_codename: Optional[str]
     # Some districts don't have ward, like Huyện Bạch Long Vĩ (2021)
-    ward_name: Optional[Name]
+    ward: Optional[Name]
     ward_code: Optional[int]
-    ward_codename: Optional[str]
+    # ward_codename: Optional[str]
 
-    @validator('province_codename', always=True)
-    def set_province_codename(cls, v, values):
-        return convert_to_codename(values['province_name'])
+    # @validator('province_codename', always=True)
+    # def set_province_codename(cls, v, values):
+    #     return convert_to_codename(values['province_name'])
 
-    @validator('district_codename', always=True)
-    def set_district_codename(cls, v, values):
-        return convert_to_codename(values['district_name'])
+    # @validator('district_codename', always=True)
+    # def set_district_codename(cls, v, values):
+    #     return convert_to_codename(values['district_name'])
 
-    @validator('ward_codename', always=True)
-    def set_ward_codename(cls, v, values):
-        return convert_to_codename(values['ward_name'])
+    # @validator('ward_codename', always=True)
+    # def set_ward_codename(cls, v, values):
+    #     return convert_to_codename(values['ward_name'])
 
     @validator('ward_code', pre=True)
     def set_ward_code(cls, v, values):
@@ -93,7 +93,7 @@ class WardCSVRecord(BaseModel):
     def from_csv_row(cls, values: List[str]) -> Optional['WardCSVRecord']:
         row = WardCSVInputRow.strip_make(values)
         ward = cls.parse_obj(row._asdict())
-        if not ward.ward_name:
+        if not ward.ward:
             logger.info('The row {} does not have ward', row)
         return ward
 
@@ -104,24 +104,30 @@ class BaseRegion(BaseModel):
     codename: Optional[str]
 
 
-class Ward(BaseRegion):
+class Ward(BaseModel):
+    ward: str
+    ward_code: int
+    # codename: Optional[str]
     # Redefine here, or the validator won't run
-    division_type: VietNamDivisionType = None
-    short_codename: str = None
+    # division_type: VietNamDivisionType = None
+    # short_codename: str = None
 
-    @validator('division_type', pre=True, always=True)
-    def parse_division_type(cls, v, values):
-        if v:
-            return v
-        name = values['name'].lower()
-        possibles = (VietNamDivisionType.THI_TRAN, VietNamDivisionType.XA, VietNamDivisionType.PHUONG)
-        return next((t for t in possibles if name.startswith(f'{t.value} ')), None)
+    # @validator('division_type', pre=True, always=True)
+    # def parse_division_type(cls, v, values):
+    #     if v:
+    #         return v
+    #     name = values['ward'].lower()
+    #     possibles = (VietNamDivisionType.THI_TRAN, VietNamDivisionType.XA, VietNamDivisionType.PHUONG)
+    #     return next((t for t in possibles if name.startswith(f'{t.value} ')), None)
 
 
-class District(BaseRegion):
+class District(BaseModel):
+    district: str
+    district_code: int
+    # codename: Optional[str]
     # Redefine here, or the validator won't run
-    division_type: VietNamDivisionType = None
-    short_codename: str = None
+    # division_type: VietNamDivisionType = None
+    # short_codename: str = None
     wards: Tuple[Ward, ...] = ()
     # Actual wards are saved here for fast searching
     indexed_wards: Dict[int, Ward] = None
@@ -130,14 +136,14 @@ class District(BaseRegion):
         super().__init__(**data)
         self.indexed_wards = {}
 
-    @validator('division_type', pre=True, always=True)
-    def parse_division_type(cls, v, values):
-        if v:
-            return v
-        name = values['name'].lower()
-        possibles = (VietNamDivisionType.THANH_PHO, VietNamDivisionType.THI_XA,
-                     VietNamDivisionType.QUAN, VietNamDivisionType.HUYEN)
-        return next((t for t in possibles if name.startswith(f'{t.value} ')), None)
+    # @validator('division_type', pre=True, always=True)
+    # def parse_division_type(cls, v, values):
+    #     if v:
+    #         return v
+    #     name = values['district'].lower()
+    #     possibles = (VietNamDivisionType.THANH_PHO, VietNamDivisionType.THI_XA,
+    #                  VietNamDivisionType.QUAN, VietNamDivisionType.HUYEN)
+    #     return next((t for t in possibles if name.startswith(f'{t.value} ')), None)
 
     @property
     def abbrev(self):
@@ -149,10 +155,12 @@ class District(BaseRegion):
         return out
 
 
-class Province(BaseRegion):
+class Province(BaseModel):
     # Redefine here, or the validator won't run
-    division_type: VietNamDivisionType = None
-    phone_code: Optional[str] = None
+    province: str
+    province_code: int
+    # codename: Optional[str]
+    # division_type: VietNamDivisionType = None
     districts: Tuple[District, ...] = ()
     # Actual districts are saved here for fast searching
     indexed_districts: Dict[int, District] = None
@@ -161,15 +169,15 @@ class Province(BaseRegion):
         super().__init__(**data)
         self.indexed_districts = {}
 
-    @validator('division_type', pre=True, always=True)
-    def parse_division_type(cls, v, values):
-        if v:
-            return v
-        name = values['name'].lower()
-        if name.startswith(f'{VietNamDivisionType.THANH_PHO} '):
-            return VietNamDivisionType.THANH_PHO_TRUNG_UONG
-        if name.startswith(f'{VietNamDivisionType.TINH} '):
-            return VietNamDivisionType.TINH
+    # @validator('division_type', pre=True, always=True)
+    # def parse_division_type(cls, v, values):
+    #     if v:
+    #         return v
+    #     name = values['province'].lower()
+    #     if name.startswith(f'{VietNamDivisionType.THANH_PHO} '):
+    #         return VietNamDivisionType.THANH_PHO_TRUNG_UONG
+    #     if name.startswith(f'{VietNamDivisionType.TINH} '):
+    #         return VietNamDivisionType.TINH
 
     @property
     def short_codename(self):
@@ -250,15 +258,15 @@ def generate_unique_ward_ids(district: District, province: Province):
 
 
 def add_to_existing_province(w: WardCSVRecord, province: Province) -> Ward:
-    if w.ward_name:
-        ward = Ward(name=w.ward_name, code=w.ward_code, codename=w.ward_codename)
+    if w.ward:
+        ward = Ward(ward=w.ward, ward_code=w.ward_code)
     else:
         ward = None
     try:
         district = province.indexed_districts[w.district_code]
         district.indexed_wards[w.ward_code] = ward
     except KeyError:
-        district = District(name=w.district_name, code=w.district_code, codename=w.district_codename)
+        district = District(district=w.district, district_code=w.district_code)
         province.indexed_districts[w.district_code] = district
         if ward:
             district.indexed_wards = {w.ward_code: ward}
@@ -275,25 +283,25 @@ def convert_to_nested(records: Sequence[WardCSVRecord],
             province = table[province_code]
             add_to_existing_province(w, province)
         except KeyError:
-            province = Province(name=w.province_name, code=province_code, codename=w.province_codename)
+            province = Province(province=w.province, province_code=province_code)
             # Find phone_code
             # c.province_codename will be 'ba_ria_vung_tau'
             # province.codename will be 'tinh_ba_ria_vung_tau'
-            matched_phone_code = next((c for c in phone_codes if province.codename.endswith(c.province_codename)), None)
-            if matched_phone_code is None:
-                logger.error('Could not find phone code for {}', province.name)
-            else:
-                province.phone_code = matched_phone_code.code
-            district = District(name=w.district_name, code=w.district_code, codename=w.district_codename)
+            # matched_phone_code = next((c for c in phone_codes if province.codename.endswith(c.province_codename)), None)
+            # if matched_phone_code is None:
+            #     logger.error('Could not find phone code for {}', province.name)
+            # else:
+            #     province.phone_code = matched_phone_code.code
+            district = District(district=w.district, district_code=w.district_code)
             province.indexed_districts[w.district_code] = district
             if w.ward_code:
-                ward = Ward(name=w.ward_name, code=w.ward_code, codename=w.ward_codename)
+                ward = Ward(ward=w.ward,ward_code=w.ward_code)
                 district.indexed_wards[w.ward_code] = ward
             table[province_code] = province
-    for p in table.values():
-        generate_district_short_codenames(p)
-        for d in p.indexed_districts.values():
-            generate_ward_short_codenames(d)
+    # for p in table.values():
+    #     generate_district_short_codenames(p)
+    #     for d in p.indexed_districts.values():
+    #         generate_ward_short_codenames(d)
     return table
 
 
