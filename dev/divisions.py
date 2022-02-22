@@ -48,11 +48,11 @@ def abbreviate_doub_codename(name: str) -> str:
 
 class WardCSVInputRow(NamedTuple):
     province: str
-    province_code: int
+    province_code: str
     district: str
-    district_code: int
+    district_code: str
     ward: str
-    ward_code: int
+    ward_code: str
 
     @classmethod
     def strip_make(cls, value):
@@ -61,14 +61,14 @@ class WardCSVInputRow(NamedTuple):
 
 class WardCSVRecord(BaseModel):
     province: Name
-    province_code: int
+    province_code: str
     # province_codename: Optional[str]
     district: Name
-    district_code: int
+    district_code: str
     # district_codename: Optional[str]
     # Some districts don't have ward, like Huyện Bạch Long Vĩ (2021)
     ward: Optional[Name]
-    ward_code: Optional[int]
+    ward_code: Optional[str]
     # ward_codename: Optional[str]
 
     # @validator('province_codename', always=True)
@@ -106,7 +106,7 @@ class BaseRegion(BaseModel):
 
 class Ward(BaseModel):
     ward: str
-    ward_code: int
+    ward_code: str
     # codename: Optional[str]
     # Redefine here, or the validator won't run
     # division_type: VietNamDivisionType = None
@@ -123,7 +123,7 @@ class Ward(BaseModel):
 
 class District(BaseModel):
     district: str
-    district_code: int
+    district_code: str
     # codename: Optional[str]
     # Redefine here, or the validator won't run
     # division_type: VietNamDivisionType = None
@@ -158,7 +158,7 @@ class District(BaseModel):
 class Province(BaseModel):
     # Redefine here, or the validator won't run
     province: str
-    province_code: int
+    province_code: str
     # codename: Optional[str]
     # division_type: VietNamDivisionType = None
     districts: Tuple[District, ...] = ()

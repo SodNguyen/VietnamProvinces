@@ -1,0 +1,1392 @@
+[
+  {
+    "province": "Honda",
+    "province_code": "Honda",
+    "districts": [
+      {
+        "district": "Airblade",
+        "district_code": "Airblade",
+        "wards": [
+          {
+            "ward": "124.9",
+            "ward_code": "124.9"
+          },
+          {
+            "ward": "108",
+            "ward_code": "108"
+          }
+        ]
+      },
+      {
+        "district": "Blade",
+        "district_code": "Blade",
+        "wards": [
+          {
+            "ward": "109.1",
+            "ward_code": "109.1"
+          }
+        ]
+      },
+      {
+        "district": "C100 Super dream",
+        "district_code": "C100 Super dream",
+        "wards": [
+          {
+            "ward": "97",
+            "ward_code": "97"
+          }
+        ]
+      },
+      {
+        "district": "Click",
+        "district_code": "Click",
+        "wards": [
+          {
+            "ward": "108",
+            "ward_code": "108"
+          }
+        ]
+      },
+      {
+        "district": "Dream",
+        "district_code": "Dream",
+        "wards": [
+          {
+            "ward": "97",
+            "ward_code": "97"
+          }
+        ]
+      },
+      {
+        "district": "Future",
+        "district_code": "Future",
+        "wards": [
+          {
+            "ward": "110",
+            "ward_code": "110"
+          },
+          {
+            "ward": "108",
+            "ward_code": "108"
+          }
+        ]
+      },
+      {
+        "district": "Future",
+        "district_code": "Future ",
+        "wards": [
+          {
+            "ward": "124.9",
+            "ward_code": "124.9"
+          }
+        ]
+      },
+      {
+        "district": "Future NEO",
+        "district_code": "Future NEO",
+        "wards": [
+          {
+            "ward": "124",
+            "ward_code": "124"
+          }
+        ]
+      },
+      {
+        "district": "HA-8 Super Dream",
+        "district_code": "HA-8 Super Dream",
+        "wards": [
+          {
+            "ward": "97",
+            "ward_code": "97"
+          }
+        ]
+      },
+      {
+        "district": "Wave anpha",
+        "district_code": "Wave anpha",
+        "wards": [
+          {
+            "ward": "97",
+            "ward_code": "97"
+          }
+        ]
+      },
+      {
+        "district": "HD110",
+        "district_code": "HD110",
+        "wards": [
+          {
+            "ward": "107",
+            "ward_code": "107"
+          }
+        ]
+      },
+      {
+        "district": "JA36 Blade",
+        "district_code": "JA36 Blade",
+        "wards": [
+          {
+            "ward": "109.1",
+            "ward_code": "109.1"
+          }
+        ]
+      },
+      {
+        "district": "Wave RSX",
+        "district_code": "Wave RSX",
+        "wards": [
+          {
+            "ward": "109.1",
+            "ward_code": "109.1"
+          }
+        ]
+      },
+      {
+        "district": "JA27 Super dream",
+        "district_code": "JA27 Super dream",
+        "wards": [
+          {
+            "ward": "109.1",
+            "ward_code": "109.1"
+          }
+        ]
+      },
+      {
+        "district": "Wave RS",
+        "district_code": "Wave RS ",
+        "wards": [
+          {
+            "ward": "109.1",
+            "ward_code": "109.1"
+          }
+        ]
+      },
+      {
+        "district": "Wave S",
+        "district_code": "Wave S",
+        "wards": [
+          {
+            "ward": "109.1",
+            "ward_code": "109.1"
+          },
+          {
+            "ward": "97",
+            "ward_code": "97"
+          }
+        ]
+      },
+      {
+        "district": "Lead",
+        "district_code": "Lead",
+        "wards": [
+          {
+            "ward": "108",
+            "ward_code": "108"
+          },
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      },
+      {
+        "district": "SH",
+        "district_code": "SH",
+        "wards": [
+          {
+            "ward": "124.6",
+            "ward_code": "124.6"
+          },
+          {
+            "ward": "150",
+            "ward_code": "150"
+          }
+        ]
+      },
+      {
+        "district": "PCX",
+        "district_code": "PCX",
+        "wards": [
+          {
+            "ward": "124.9",
+            "ward_code": "124.9"
+          }
+        ]
+      },
+      {
+        "district": "Vision",
+        "district_code": "Vision",
+        "wards": [
+          {
+            "ward": "108",
+            "ward_code": "108"
+          }
+        ]
+      },
+      {
+        "district": "SH Mode",
+        "district_code": "SH Mode",
+        "wards": [
+          {
+            "ward": "124.9",
+            "ward_code": "124.9"
+          }
+        ]
+      },
+      {
+        "district": "Winner",
+        "district_code": "Winner",
+        "wards": [
+          {
+            "ward": "149.1",
+            "ward_code": "149.1"
+          },
+          {
+            "ward": "124.9",
+            "ward_code": "124.9"
+          }
+        ]
+      },
+      {
+        "district": "MSX",
+        "district_code": "MSX",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      },
+      {
+        "district": "Pantheon",
+        "district_code": "Pantheon",
+        "wards": [
+          {
+            "ward": "153",
+            "ward_code": "153"
+          }
+        ]
+      },
+      {
+        "district": "CMX",
+        "district_code": "CMX",
+        "wards": [
+          {
+            "ward": "286.01",
+            "ward_code": "286.01"
+          }
+        ]
+      },
+      {
+        "district": "Rebel",
+        "district_code": "Rebel",
+        "wards": [
+          {
+            "ward": "471",
+            "ward_code": "471"
+          }
+        ]
+      },
+      {
+        "district": "Wave",
+        "district_code": "Wave",
+        "wards": [
+          {
+            "ward": "97",
+            "ward_code": "97"
+          }
+        ]
+      },
+      {
+        "district": "Wave Blade",
+        "district_code": "Wave Blade",
+        "wards": [
+          {
+            "ward": "110",
+            "ward_code": "110"
+          }
+        ]
+      },
+      {
+        "district": "Wave RS",
+        "district_code": "Wave RS",
+        "wards": [
+          {
+            "ward": "97",
+            "ward_code": "97"
+          }
+        ]
+      },
+      {
+        "district": "Vario 125",
+        "district_code": "Vario 125",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      },
+      {
+        "district": "Click 125",
+        "district_code": "Click 125",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      },
+      {
+        "district": "Click 150",
+        "district_code": "Click 150",
+        "wards": [
+          {
+            "ward": "150",
+            "ward_code": "150"
+          }
+        ]
+      },
+      {
+        "district": "Little Cub",
+        "district_code": "Little Cub",
+        "wards": [
+          {
+            "ward": "50",
+            "ward_code": "50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Piaggio",
+    "province_code": "Piaggio",
+    "districts": [
+      {
+        "district": "Fly",
+        "district_code": "Fly",
+        "wards": [
+          {
+            "ward": "124.5",
+            "ward_code": "124.5"
+          },
+          {
+            "ward": "149.5",
+            "ward_code": "149.5"
+          }
+        ]
+      },
+      {
+        "district": "Liberty",
+        "district_code": "Liberty",
+        "wards": [
+          {
+            "ward": "124.5",
+            "ward_code": "124.5"
+          },
+          {
+            "ward": "154.8",
+            "ward_code": "154.8"
+          },
+          {
+            "ward": "149.5",
+            "ward_code": "149.5"
+          }
+        ]
+      },
+      {
+        "district": "Medley",
+        "district_code": "Medley",
+        "wards": [
+          {
+            "ward": "155.1",
+            "ward_code": "155.1"
+          }
+        ]
+      },
+      {
+        "district": "Vespa GTS",
+        "district_code": "Vespa GTS",
+        "wards": [
+          {
+            "ward": "124.5",
+            "ward_code": "124.5"
+          },
+          {
+            "ward": "154.8",
+            "ward_code": "154.8"
+          }
+        ]
+      },
+      {
+        "district": "Vespa SUPER",
+        "district_code": "Vespa SUPER",
+        "wards": [
+          {
+            "ward": "155.1",
+            "ward_code": "155.1"
+          },
+          {
+            "ward": "278.3",
+            "ward_code": "278.3"
+          }
+        ]
+      },
+      {
+        "district": "Vespa LX",
+        "district_code": "Vespa LX",
+        "wards": [
+          {
+            "ward": "124",
+            "ward_code": "124"
+          },
+          {
+            "ward": "149.5",
+            "ward_code": "149.5"
+          }
+        ]
+      },
+      {
+        "district": "Vespa Primavera",
+        "district_code": "Vespa Primavera",
+        "wards": [
+          {
+            "ward": "124.5",
+            "ward_code": "124.5"
+          },
+          {
+            "ward": "150",
+            "ward_code": "150"
+          }
+        ]
+      },
+      {
+        "district": "Vespa S",
+        "district_code": "Vespa S",
+        "wards": [
+          {
+            "ward": "124",
+            "ward_code": "124"
+          },
+          {
+            "ward": "149.5",
+            "ward_code": "149.5"
+          }
+        ]
+      },
+      {
+        "district": "Vespa Sprint",
+        "district_code": "Vespa Sprint",
+        "wards": [
+          {
+            "ward": "154.8",
+            "ward_code": "154.8"
+          },
+          {
+            "ward": "124.5",
+            "ward_code": "124.5"
+          }
+        ]
+      },
+      {
+        "district": "Zip",
+        "district_code": "Zip",
+        "wards": [
+          {
+            "ward": "96",
+            "ward_code": "96"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Suzuki",
+    "province_code": "Suzuki",
+    "districts": [
+      {
+        "district": "Amity",
+        "district_code": "Amity",
+        "wards": [
+          {
+            "ward": "124.5",
+            "ward_code": "124.5"
+          }
+        ]
+      },
+      {
+        "district": "Axelo",
+        "district_code": "Axelo",
+        "wards": [
+          {
+            "ward": "124",
+            "ward_code": "124"
+          }
+        ]
+      },
+      {
+        "district": "Best",
+        "district_code": "Best",
+        "wards": [
+          {
+            "ward": "109.7",
+            "ward_code": "109.7"
+          }
+        ]
+      },
+      {
+        "district": "Crystal",
+        "district_code": "Crystal",
+        "wards": [
+          {
+            "ward": "109",
+            "ward_code": "109"
+          }
+        ]
+      },
+      {
+        "district": "EN",
+        "district_code": "EN",
+        "wards": [
+          {
+            "ward": "149",
+            "ward_code": "149"
+          }
+        ]
+      },
+      {
+        "district": "FU Raider",
+        "district_code": "FU Raider",
+        "wards": [
+          {
+            "ward": "147",
+            "ward_code": "147"
+          }
+        ]
+      },
+      {
+        "district": "GD",
+        "district_code": "GD",
+        "wards": [
+          {
+            "ward": "112.8",
+            "ward_code": "112.8"
+          }
+        ]
+      },
+      {
+        "district": "GSX",
+        "district_code": "GSX",
+        "wards": [
+          {
+            "ward": "147.3",
+            "ward_code": "147.3"
+          }
+        ]
+      },
+      {
+        "district": "GZ",
+        "district_code": "GZ",
+        "wards": [
+          {
+            "ward": "149",
+            "ward_code": "149"
+          }
+        ]
+      },
+      {
+        "district": "Hayate",
+        "district_code": "Hayate",
+        "wards": [
+          {
+            "ward": "124",
+            "ward_code": "124"
+          }
+        ]
+      },
+      {
+        "district": "Raider",
+        "district_code": "Raider",
+        "wards": [
+          {
+            "ward": "150",
+            "ward_code": "150"
+          }
+        ]
+      },
+      {
+        "district": "Revo",
+        "district_code": "Revo",
+        "wards": [
+          {
+            "ward": "110",
+            "ward_code": "110"
+          }
+        ]
+      },
+      {
+        "district": "RU",
+        "district_code": "RU",
+        "wards": [
+          {
+            "ward": "109",
+            "ward_code": "109"
+          }
+        ]
+      },
+      {
+        "district": "Shogun",
+        "district_code": "Shogun",
+        "wards": [
+          {
+            "ward": "124",
+            "ward_code": "124"
+          }
+        ]
+      },
+      {
+        "district": "Skydrive",
+        "district_code": "Skydrive",
+        "wards": [
+          {
+            "ward": "124",
+            "ward_code": "124"
+          }
+        ]
+      },
+      {
+        "district": "Smash",
+        "district_code": "Smash",
+        "wards": [
+          {
+            "ward": "109.7",
+            "ward_code": "109.7"
+          }
+        ]
+      },
+      {
+        "district": "Smash Revo",
+        "district_code": "Smash Revo",
+        "wards": [
+          {
+            "ward": "110",
+            "ward_code": "110"
+          }
+        ]
+      },
+      {
+        "district": "Thunder",
+        "district_code": "Thunder",
+        "wards": [
+          {
+            "ward": "149",
+            "ward_code": "149"
+          }
+        ]
+      },
+      {
+        "district": "UA",
+        "district_code": "UA",
+        "wards": [
+          {
+            "ward": "124",
+            "ward_code": "124"
+          }
+        ]
+      },
+      {
+        "district": "UE",
+        "district_code": "UE",
+        "wards": [
+          {
+            "ward": "124.5",
+            "ward_code": "124.5"
+          }
+        ]
+      },
+      {
+        "district": "UK",
+        "district_code": "UK",
+        "wards": [
+          {
+            "ward": "112.8",
+            "ward_code": "112.8"
+          },
+          {
+            "ward": "113",
+            "ward_code": "113"
+          }
+        ]
+      },
+      {
+        "district": "UV",
+        "district_code": "UV",
+        "wards": [
+          {
+            "ward": "124",
+            "ward_code": "124"
+          },
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      },
+      {
+        "district": "Viva",
+        "district_code": "Viva",
+        "wards": [
+          {
+            "ward": "113",
+            "ward_code": "113"
+          },
+          {
+            "ward": "109.7",
+            "ward_code": "109.7"
+          }
+        ]
+      },
+      {
+        "district": "X-bike",
+        "district_code": "X-bike",
+        "wards": [
+          {
+            "ward": "124",
+            "ward_code": "124"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Yamaha",
+    "province_code": "Yamaha",
+    "districts": [
+      {
+        "district": "Acruzo",
+        "district_code": "Acruzo ",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      },
+      {
+        "district": "Cuxi",
+        "district_code": "Cuxi",
+        "wards": [
+          {
+            "ward": "101",
+            "ward_code": "101"
+          }
+        ]
+      },
+      {
+        "district": "BW's",
+        "district_code": "BW's",
+        "wards": [
+          {
+            "ward": "124",
+            "ward_code": "124"
+          }
+        ]
+      },
+      {
+        "district": "Exiciter",
+        "district_code": "Exiciter",
+        "wards": [
+          {
+            "ward": "150",
+            "ward_code": "150"
+          },
+          {
+            "ward": "135",
+            "ward_code": "135"
+          }
+        ]
+      },
+      {
+        "district": "FreeGo",
+        "district_code": "FreeGo",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      },
+      {
+        "district": "FZN",
+        "district_code": "FZN",
+        "wards": [
+          {
+            "ward": "150",
+            "ward_code": "150"
+          }
+        ]
+      },
+      {
+        "district": "Janus",
+        "district_code": "Janus",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      },
+      {
+        "district": "Gravita",
+        "district_code": "Gravita",
+        "wards": [
+          {
+            "ward": "114",
+            "ward_code": "114"
+          }
+        ]
+      },
+      {
+        "district": "Jupiter",
+        "district_code": "Jupiter",
+        "wards": [
+          {
+            "ward": "110",
+            "ward_code": "110"
+          }
+        ]
+      },
+      {
+        "district": "Latte",
+        "district_code": "Latte",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      },
+      {
+        "district": "Lexam",
+        "district_code": "Lexam",
+        "wards": [
+          {
+            "ward": "114",
+            "ward_code": "114"
+          }
+        ]
+      },
+      {
+        "district": "Luvias",
+        "district_code": "Luvias",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      },
+      {
+        "district": "Mio",
+        "district_code": "Mio",
+        "wards": [
+          {
+            "ward": "113",
+            "ward_code": "113"
+          }
+        ]
+      },
+      {
+        "district": "Nouvo",
+        "district_code": "Nouvo",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      },
+      {
+        "district": "Nozza",
+        "district_code": "Nozza",
+        "wards": [
+          {
+            "ward": "155",
+            "ward_code": "155"
+          }
+        ]
+      },
+      {
+        "district": "NVX",
+        "district_code": "NVX",
+        "wards": [
+          {
+            "ward": "155",
+            "ward_code": "155"
+          }
+        ]
+      },
+      {
+        "district": "Sirius",
+        "district_code": "Sirius",
+        "wards": [
+          {
+            "ward": "100",
+            "ward_code": "100"
+          }
+        ]
+      },
+      {
+        "district": "SV Max",
+        "district_code": "SV Max",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      },
+      {
+        "district": "Taurus",
+        "district_code": "Taurus",
+        "wards": [
+          {
+            "ward": "114",
+            "ward_code": "114"
+          }
+        ]
+      },
+      {
+        "district": "TFX",
+        "district_code": "TFX",
+        "wards": [
+          {
+            "ward": "150",
+            "ward_code": "150"
+          }
+        ]
+      },
+      {
+        "district": "TZX",
+        "district_code": "TZX",
+        "wards": [
+          {
+            "ward": "150",
+            "ward_code": "150"
+          }
+        ]
+      },
+      {
+        "district": "Yaz 125",
+        "district_code": "Yaz 125",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Vinfast",
+    "province_code": "Vinfast",
+    "districts": [
+      {
+        "district": "Klara",
+        "district_code": "Klara",
+        "wards": [
+          {
+            "ward": "2.05",
+            "ward_code": "2.05"
+          },
+          {
+            "ward": "1.75",
+            "ward_code": "1.75"
+          }
+        ]
+      },
+      {
+        "district": "Impes",
+        "district_code": "Impes",
+        "wards": [
+          {
+            "ward": "1.7",
+            "ward_code": "1.7"
+          }
+        ]
+      },
+      {
+        "district": "Klara S",
+        "district_code": "Klara S",
+        "wards": [
+          {
+            "ward": "1.7",
+            "ward_code": "1.7"
+          }
+        ]
+      },
+      {
+        "district": "Ludo 1.1",
+        "district_code": "Ludo 1.1",
+        "wards": [
+          {
+            "ward": "1.1",
+            "ward_code": "1.1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "SYM",
+    "province_code": "SYM",
+    "districts": [
+      {
+        "district": "002",
+        "district_code": "002",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      },
+      {
+        "district": "Abela",
+        "district_code": "Abela",
+        "wards": [
+          {
+            "ward": "111",
+            "ward_code": "111"
+          }
+        ]
+      },
+      {
+        "district": "Amigo",
+        "district_code": "Amigo",
+        "wards": [
+          {
+            "ward": "50",
+            "ward_code": "50"
+          }
+        ]
+      },
+      {
+        "district": "Angela",
+        "district_code": "Angela",
+        "wards": [
+          {
+            "ward": "108",
+            "ward_code": "108"
+          }
+        ]
+      },
+      {
+        "district": "Atila",
+        "district_code": "Atila",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      },
+      {
+        "district": "Bonus",
+        "district_code": "Bonus",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      },
+      {
+        "district": "Elegant",
+        "district_code": "Elegant",
+        "wards": [
+          {
+            "ward": "50",
+            "ward_code": "50"
+          },
+          {
+            "ward": "100",
+            "ward_code": "100"
+          },
+          {
+            "ward": "110",
+            "ward_code": "110"
+          }
+        ]
+      },
+      {
+        "district": "Elite",
+        "district_code": "Elite",
+        "wards": [
+          {
+            "ward": "50",
+            "ward_code": "50"
+          }
+        ]
+      },
+      {
+        "district": "Enjoy",
+        "district_code": "Enjoy",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      },
+      {
+        "district": "Ex50",
+        "district_code": "Ex50",
+        "wards": [
+          {
+            "ward": "50",
+            "ward_code": "50"
+          }
+        ]
+      },
+      {
+        "district": "Fancy",
+        "district_code": "Fancy",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      },
+      {
+        "district": "Galaxy",
+        "district_code": "Galaxy",
+        "wards": [
+          {
+            "ward": "50",
+            "ward_code": "50"
+          },
+          {
+            "ward": "108",
+            "ward_code": "108"
+          }
+        ]
+      },
+      {
+        "district": "Husky Classic",
+        "district_code": "Husky Classic",
+        "wards": [
+          {
+            "ward": "124",
+            "ward_code": "124"
+          }
+        ]
+      },
+      {
+        "district": "Joyride",
+        "district_code": "Joyride",
+        "wards": [
+          {
+            "ward": "111",
+            "ward_code": "111"
+          }
+        ]
+      },
+      {
+        "district": "Moto wolf",
+        "district_code": "Moto wolf",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      },
+      {
+        "district": "Power",
+        "district_code": "Power",
+        "wards": [
+          {
+            "ward": "81",
+            "ward_code": "81"
+          }
+        ]
+      },
+      {
+        "district": "Shark",
+        "district_code": "Shark",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          },
+          {
+            "ward": "170",
+            "ward_code": "170"
+          }
+        ]
+      },
+      {
+        "district": "Shark Mini",
+        "district_code": "Shark Mini",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      },
+      {
+        "district": "Star",
+        "district_code": "Star",
+        "wards": [
+          {
+            "ward": "123",
+            "ward_code": "123"
+          }
+        ]
+      },
+      {
+        "district": "Z1",
+        "district_code": "Z1",
+        "wards": [
+          {
+            "ward": "49",
+            "ward_code": "49"
+          }
+        ]
+      },
+      {
+        "district": "Wind speed",
+        "district_code": "Wind speed",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      },
+      {
+        "district": "Angel 125",
+        "district_code": "Angel 125",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "honda",
+    "province_code": "honda",
+    "districts": [
+      {
+        "district": "Vario 150",
+        "district_code": "Vario 150",
+        "wards": [
+          {
+            "ward": "150",
+            "ward_code": "150"
+          }
+        ]
+      },
+      {
+        "district": "Airblade 150",
+        "district_code": "Airblade 150",
+        "wards": [
+          {
+            "ward": "150",
+            "ward_code": "150"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Kymco",
+    "province_code": "Kymco",
+    "districts": [
+      {
+        "district": "Like 50",
+        "district_code": "Like 50",
+        "wards": [
+          {
+            "ward": "50",
+            "ward_code": "50"
+          }
+        ]
+      },
+      {
+        "district": "Like 125",
+        "district_code": "Like 125",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      },
+      {
+        "district": "Like II 125",
+        "district_code": "Like II 125",
+        "wards": [
+          {
+            "ward": "125",
+            "ward_code": "125"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Yadea",
+    "province_code": "Yadea",
+    "districts": [
+      {
+        "district": "Buye",
+        "district_code": "Buye",
+        "wards": [
+          {
+            "ward": "2.1",
+            "ward_code": "2.1"
+          }
+        ]
+      },
+      {
+        "district": "E3",
+        "district_code": "E3",
+        "wards": [
+          {
+            "ward": "1.4",
+            "ward_code": "1.4"
+          }
+        ]
+      },
+      {
+        "district": "G5",
+        "district_code": "G5",
+        "wards": [
+          {
+            "ward": "2.4",
+            "ward_code": "2.4"
+          }
+        ]
+      },
+      {
+        "district": "ULIKE",
+        "district_code": "ULIKE",
+        "wards": [
+          {
+            "ward": "1.6",
+            "ward_code": "1.6"
+          }
+        ]
+      }
+    ]
+  }
+]
