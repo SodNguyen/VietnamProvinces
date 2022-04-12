@@ -48,11 +48,11 @@ def abbreviate_doub_codename(name: str) -> str:
 
 class WardCSVInputRow(NamedTuple):
     province: str
-    province_code: int
+    province_code: str
     district: str
-    district_code: int
+    district_code: str
     ward: str
-    ward_code: int
+    ward_code: str
 
     @classmethod
     def strip_make(cls, value):
@@ -61,14 +61,14 @@ class WardCSVInputRow(NamedTuple):
 
 class WardCSVRecord(BaseModel):
     province: Name
-    province_code: int
+    province_code: str
     # province_codename: Optional[str]
     district: Name
-    district_code: int
+    district_code: str
     # district_codename: Optional[str]
     # Some districts don't have ward, like Huyện Bạch Long Vĩ (2021)
     ward: Optional[Name]
-    ward_code: Optional[int]
+    ward_code: Optional[str]
     # ward_codename: Optional[str]
 
     # @validator('province_codename', always=True)
@@ -100,13 +100,13 @@ class WardCSVRecord(BaseModel):
 
 class BaseRegion(BaseModel):
     name: str
-    code: int
+    code: str
     codename: Optional[str]
 
 
 class Ward(BaseModel):
     ward: str
-    ward_code: int
+    ward_code: str
     # codename: Optional[str]
     # Redefine here, or the validator won't run
     # division_type: VietNamDivisionType = None
@@ -123,14 +123,14 @@ class Ward(BaseModel):
 
 class District(BaseModel):
     district: str
-    district_code: int
+    district_code: str
     # codename: Optional[str]
     # Redefine here, or the validator won't run
     # division_type: VietNamDivisionType = None
     # short_codename: str = None
     wards: Tuple[Ward, ...] = ()
     # Actual wards are saved here for fast searching
-    indexed_wards: Dict[int, Ward] = None
+    indexed_wards: Dict[str, Ward] = None
 
     def __init__(self, **data):
         super().__init__(**data)
@@ -158,12 +158,12 @@ class District(BaseModel):
 class Province(BaseModel):
     # Redefine here, or the validator won't run
     province: str
-    province_code: int
+    province_code: str
     # codename: Optional[str]
     # division_type: VietNamDivisionType = None
     districts: Tuple[District, ...] = ()
     # Actual districts are saved here for fast searching
-    indexed_districts: Dict[int, District] = None
+    indexed_districts: Dict[str, District] = None
 
     def __init__(self, **data):
         super().__init__(**data)
@@ -274,8 +274,8 @@ def add_to_existing_province(w: WardCSVRecord, province: Province) -> Ward:
 
 
 def convert_to_nested(records: Sequence[WardCSVRecord],
-                      phone_codes: Sequence[PhoneCodeCSVRecord]) -> Dict[int, Province]:
-    table = {}    # type: Dict[int, Province]
+                      phone_codes: Sequence[PhoneCodeCSVRecord]) -> Dict[str, Province]:
+    table = {}    # type: Dict[str, Province]
     for w in records:
         # This district doesn't have ward
         province_code = w.province_code
