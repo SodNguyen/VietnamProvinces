@@ -1,0 +1,1186 @@
+[
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "model": "Airblade 125",
+    "model_key": "Airblade 125",
+    "cc": "125",
+    "cc_key": "PVI_1"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Airblade 108",
+    "model_key": "Airblade 108",
+    "cc": "108",
+    "cc_key": "PVI_2"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Blade",
+    "model_key": "Blade",
+    "cc": "109",
+    "cc_key": "PVI_3"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "C100 Super dream",
+    "model_key": "C100 Super dream",
+    "cc": "97",
+    "cc_key": "PVI_4"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Click",
+    "model_key": "Click",
+    "cc": "108",
+    "cc_key": "PVI_5"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Dream",
+    "model_key": "Dream",
+    "cc": "97",
+    "cc_key": "PVI_6"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Future 110",
+    "model_key": "Future 110",
+    "cc": "110",
+    "cc_key": "PVI_7"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Future 108",
+    "model_key": "Future 108",
+    "cc": "108",
+    "cc_key": "PVI_8"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Future 125",
+    "model_key": "Future 125",
+    "cc": "125",
+    "cc_key": "PVI_9"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Future NEO",
+    "model_key": "Future NEO",
+    "cc": "124",
+    "cc_key": "PVI_10"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "HA-8 Super Dream",
+    "model_key": "HA-8 Super Dream",
+    "cc": "97",
+    "cc_key": "PVI_11"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Wave anpha",
+    "model_key": "Wave anpha",
+    "cc": "97",
+    "cc_key": "PVI_12"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "HD110",
+    "model_key": "HD110",
+    "cc": "107",
+    "cc_key": "PVI_13"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "JA36 Blade",
+    "model_key": "JA36 Blade",
+    "cc": "109",
+    "cc_key": "PVI_14"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Wave RSX",
+    "model_key": "Wave RSX",
+    "cc": "109",
+    "cc_key": "PVI_15"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "JA27 Super dream",
+    "model_key": "JA27 Super dream",
+    "cc": "109",
+    "cc_key": "PVI_16"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Wave RS 109",
+    "model_key": "Wave RS 109",
+    "cc": "109",
+    "cc_key": "PVI_17"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Wave S 109",
+    "model_key": "Wave S 109",
+    "cc": "109",
+    "cc_key": "PVI_18"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Lead",
+    "model_key": "Lead",
+    "cc": "108",
+    "cc_key": "PVI_19"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "SH 125",
+    "model_key": "SH 125",
+    "cc": "125",
+    "cc_key": "PVI_20"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "PCX",
+    "model_key": "PCX",
+    "cc": "125",
+    "cc_key": "PVI_21"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Vision",
+    "model_key": "Vision",
+    "cc": "108",
+    "cc_key": "PVI_22"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "SH Mode",
+    "model_key": "SH Mode",
+    "cc": "125",
+    "cc_key": "PVI_23"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Winner",
+    "model_key": "Winner",
+    "cc": "149",
+    "cc_key": "PVI_24"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "SH 150",
+    "model_key": "SH 150",
+    "cc": "150",
+    "cc_key": "PVI_25"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Lead",
+    "model_key": "Lead",
+    "cc": "125",
+    "cc_key": "PVI_26"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "MSX",
+    "model_key": "MSX",
+    "cc": "125",
+    "cc_key": "PVI_27"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Pantheon",
+    "model_key": "Pantheon",
+    "cc": "153",
+    "cc_key": "PVI_28"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "CMX",
+    "model_key": "CMX",
+    "cc": "286",
+    "cc_key": "PVI_29"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Rebel",
+    "model_key": "Rebel",
+    "cc": "471",
+    "cc_key": "PVI_30"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Wave",
+    "model_key": "Wave",
+    "cc": "97",
+    "cc_key": "PVI_31"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Wave Blade",
+    "model_key": "Wave Blade",
+    "cc": "110",
+    "cc_key": "PVI_32"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Wave RS 97",
+    "model_key": "Wave RS 97",
+    "cc": "97",
+    "cc_key": "PVI_33"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Wave S 97",
+    "model_key": "Wave S 97",
+    "cc": "97",
+    "cc_key": "PVI_34"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Winner",
+    "model_key": "Winner",
+    "cc": "125",
+    "cc_key": "PVI_35"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_key": "Piaggio",
+    "district": "Fly 125",
+    "model_key": "Fly 125",
+    "cc": "125",
+    "cc_key": "PVI_36"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_key": "Piaggio",
+    "district": "Fly 150",
+    "model_key": "Fly 150",
+    "cc": "150",
+    "cc_key": "PVI_37"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_key": "Piaggio",
+    "district": "Liberty 125",
+    "model_key": "Liberty 125",
+    "cc": "125",
+    "cc_key": "PVI_38"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_key": "Piaggio",
+    "district": "Liberty 155",
+    "model_key": "Liberty 155",
+    "cc": "155",
+    "cc_key": "PVI_39"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_key": "Piaggio",
+    "district": "Liberty 150",
+    "model_key": "Liberty 150",
+    "cc": "150",
+    "cc_key": "PVI_40"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_key": "Piaggio",
+    "district": "Medley",
+    "model_key": "Medley",
+    "cc": "155",
+    "cc_key": "PVI_41"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_key": "Piaggio",
+    "district": "Vespa GTS 125",
+    "model_key": "Vespa GTS 125",
+    "cc": "125",
+    "cc_key": "PVI_42"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_key": "Piaggio",
+    "district": "Vespa GTS 155",
+    "model_key": "Vespa GTS 155",
+    "cc": "155",
+    "cc_key": "PVI_43"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_key": "Piaggio",
+    "district": "Vespa SUPER 155",
+    "model_key": "Vespa SUPER 155",
+    "cc": "155",
+    "cc_key": "PVI_44"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_key": "Piaggio",
+    "district": "Vespa SUPER 278",
+    "model_key": "Vespa SUPER 278",
+    "cc": "278",
+    "cc_key": "PVI_45"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_key": "Piaggio",
+    "district": "Vespa LX 124",
+    "model_key": "Vespa LX 124",
+    "cc": "124",
+    "cc_key": "PVI_46"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_key": "Piaggio",
+    "district": "Vespa LX 150",
+    "model_key": "Vespa LX 150",
+    "cc": "150",
+    "cc_key": "PVI_47"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_key": "Piaggio",
+    "district": "Vespa Primavera 125",
+    "model_key": "Vespa Primavera 125",
+    "cc": "125",
+    "cc_key": "PVI_48"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_key": "Piaggio",
+    "district": "Vespa Primavera 150",
+    "model_key": "Vespa Primavera 150",
+    "cc": "150",
+    "cc_key": "PVI_49"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_key": "Piaggio",
+    "district": "Vespa S 124",
+    "model_key": "Vespa S 124",
+    "cc": "124",
+    "cc_key": "PVI_50"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_key": "Piaggio",
+    "district": "Vespa S 150",
+    "model_key": "Vespa S 150",
+    "cc": "150",
+    "cc_key": "PVI_51"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_key": "Piaggio",
+    "district": "Vespa Sprint 155",
+    "model_key": "Vespa Sprint 155",
+    "cc": "155",
+    "cc_key": "PVI_52"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_key": "Piaggio",
+    "district": "Vespa Sprint 125",
+    "model_key": "Vespa Sprint 125",
+    "cc": "125",
+    "cc_key": "PVI_53"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_key": "Piaggio",
+    "district": "Zip",
+    "model_key": "Zip",
+    "cc": "96",
+    "cc_key": "PVI_54"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "Amity",
+    "model_key": "Amity",
+    "cc": "125",
+    "cc_key": "PVI_55"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "Axelo",
+    "model_key": "Axelo",
+    "cc": "124",
+    "cc_key": "PVI_56"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "Best",
+    "model_key": "Best",
+    "cc": "110",
+    "cc_key": "PVI_57"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "Crystal",
+    "model_key": "Crystal",
+    "cc": "109",
+    "cc_key": "PVI_58"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "EN",
+    "model_key": "EN",
+    "cc": "149",
+    "cc_key": "PVI_59"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "FU Raider",
+    "model_key": "FU Raider",
+    "cc": "147",
+    "cc_key": "PVI_60"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "GD",
+    "model_key": "GD",
+    "cc": "113",
+    "cc_key": "PVI_61"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "GSX",
+    "model_key": "GSX",
+    "cc": "147",
+    "cc_key": "PVI_62"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "GZ",
+    "model_key": "GZ",
+    "cc": "149",
+    "cc_key": "PVI_63"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "Hayate",
+    "model_key": "Hayate",
+    "cc": "124",
+    "cc_key": "PVI_64"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "Raider",
+    "model_key": "Raider",
+    "cc": "150",
+    "cc_key": "PVI_65"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "Revo",
+    "model_key": "Revo",
+    "cc": "110",
+    "cc_key": "PVI_66"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "RU",
+    "model_key": "RU",
+    "cc": "109",
+    "cc_key": "PVI_67"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "Shogun",
+    "model_key": "Shogun",
+    "cc": "124",
+    "cc_key": "PVI_68"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "Skydrive",
+    "model_key": "Skydrive",
+    "cc": "124",
+    "cc_key": "PVI_69"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "Smash",
+    "model_key": "Smash",
+    "cc": "110",
+    "cc_key": "PVI_70"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "Smash Revo",
+    "model_key": "Smash Revo",
+    "cc": "110",
+    "cc_key": "PVI_71"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "Thunder",
+    "model_key": "Thunder",
+    "cc": "149",
+    "cc_key": "PVI_72"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "UA",
+    "model_key": "UA",
+    "cc": "124",
+    "cc_key": "PVI_73"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "UE",
+    "model_key": "UE",
+    "cc": "125",
+    "cc_key": "PVI_74"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "UK 113",
+    "model_key": "UK 113",
+    "cc": "113",
+    "cc_key": "PVI_75"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "UK 112",
+    "model_key": "UK 112",
+    "cc": "112",
+    "cc_key": "PVI_76"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "UV 124",
+    "model_key": "UV 124",
+    "cc": "124",
+    "cc_key": "PVI_77"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "UV 125",
+    "model_key": "UV 125",
+    "cc": "125",
+    "cc_key": "PVI_78"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "Viva 113",
+    "model_key": "Viva 113",
+    "cc": "113",
+    "cc_key": "PVI_79"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "Viva 110",
+    "model_key": "Viva 110",
+    "cc": "110",
+    "cc_key": "PVI_80"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "district": "X-bike",
+    "model_key": "X-bike",
+    "cc": "124",
+    "cc_key": "PVI_81"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "Acruzo",
+    "model_key": "Acruzo ",
+    "cc": "125",
+    "cc_key": "PVI_82"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "Cuxi",
+    "model_key": "Cuxi",
+    "cc": "101",
+    "cc_key": "PVI_83"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "BW's",
+    "model_key": "BW's",
+    "cc": "124",
+    "cc_key": "PVI_84"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "Exciter 150",
+    "model_key": "Exciter 150",
+    "cc": "150",
+    "cc_key": "PVI_85"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "Exciter 135",
+    "model_key": "Exciter 135",
+    "cc": "135",
+    "cc_key": "PVI_86"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "FreeGo",
+    "model_key": "FreeGo",
+    "cc": "125",
+    "cc_key": "PVI_87"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "FZN",
+    "model_key": "FZN",
+    "cc": "150",
+    "cc_key": "PVI_88"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "Janus",
+    "model_key": "Janus",
+    "cc": "125",
+    "cc_key": "PVI_89"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "Gravita",
+    "model_key": "Gravita",
+    "cc": "114",
+    "cc_key": "PVI_90"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "Jupiter",
+    "model_key": "Jupiter",
+    "cc": "110",
+    "cc_key": "PVI_91"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "Latte",
+    "model_key": "Latte",
+    "cc": "125",
+    "cc_key": "PVI_92"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "Lexam",
+    "model_key": "Lexam",
+    "cc": "114",
+    "cc_key": "PVI_93"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "Luvias",
+    "model_key": "Luvias",
+    "cc": "125",
+    "cc_key": "PVI_94"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "Mio",
+    "model_key": "Mio",
+    "cc": "113",
+    "cc_key": "PVI_95"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "Nouvo",
+    "model_key": "Nouvo",
+    "cc": "125",
+    "cc_key": "PVI_96"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "Nozza",
+    "model_key": "Nozza",
+    "cc": "155",
+    "cc_key": "PVI_97"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "NVX",
+    "model_key": "NVX",
+    "cc": "155",
+    "cc_key": "PVI_98"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "Sirius",
+    "model_key": "Sirius",
+    "cc": "100",
+    "cc_key": "PVI_99"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "SV Max",
+    "model_key": "SV Max",
+    "cc": "125",
+    "cc_key": "PVI_100"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "Taurus",
+    "model_key": "Taurus",
+    "cc": "114",
+    "cc_key": "PVI_101"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "TFX",
+    "model_key": "TFX",
+    "cc": "150",
+    "cc_key": "PVI_102"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "TZX",
+    "model_key": "TZX",
+    "cc": "150",
+    "cc_key": "PVI_103"
+  },
+  {
+    "brand": "Vinfast",
+    "brand_key": "Vinfast",
+    "district": "Klara 2,05",
+    "model_key": "Klara 2,05",
+    "cc": "2.05",
+    "cc_key": "PVI_104"
+  },
+  {
+    "brand": "Vinfast",
+    "brand_key": "Vinfast",
+    "district": "Klara 1,75",
+    "model_key": "Klara 1,75",
+    "cc": "1.75",
+    "cc_key": "PVI_105"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "2",
+    "model_key": "2",
+    "cc": "125",
+    "cc_key": "PVI_106"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Abela",
+    "model_key": "Abela",
+    "cc": "111",
+    "cc_key": "PVI_107"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Amigo",
+    "model_key": "Amigo",
+    "cc": "50",
+    "cc_key": "PVI_108"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Angela",
+    "model_key": "Angela",
+    "cc": "108",
+    "cc_key": "PVI_109"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Atila",
+    "model_key": "Atila",
+    "cc": "125",
+    "cc_key": "PVI_110"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Bonus",
+    "model_key": "Bonus",
+    "cc": "125",
+    "cc_key": "PVI_111"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Elegant 50",
+    "model_key": "Elegant 50",
+    "cc": "50",
+    "cc_key": "PVI_112"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Elegant 100",
+    "model_key": "Elegant 100",
+    "cc": "100",
+    "cc_key": "PVI_113"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Elegant 110",
+    "model_key": "Elegant 110",
+    "cc": "110",
+    "cc_key": "PVI_114"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Elite",
+    "model_key": "Elite",
+    "cc": "50",
+    "cc_key": "PVI_115"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Enjoy",
+    "model_key": "Enjoy",
+    "cc": "125",
+    "cc_key": "PVI_116"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Ex50",
+    "model_key": "Ex50",
+    "cc": "50",
+    "cc_key": "PVI_117"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Fancy",
+    "model_key": "Fancy",
+    "cc": "125",
+    "cc_key": "PVI_118"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Galaxy 50",
+    "model_key": "Galaxy 50",
+    "cc": "50",
+    "cc_key": "PVI_119"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Galaxy 108",
+    "model_key": "Galaxy 108",
+    "cc": "108",
+    "cc_key": "PVI_120"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Husky Classic",
+    "model_key": "Husky Classic",
+    "cc": "124",
+    "cc_key": "PVI_121"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Joyride",
+    "model_key": "Joyride",
+    "cc": "111",
+    "cc_key": "PVI_122"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Moto wolf",
+    "model_key": "Moto wolf",
+    "cc": "125",
+    "cc_key": "PVI_123"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Power",
+    "model_key": "Power",
+    "cc": "81",
+    "cc_key": "PVI_124"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Shark 125",
+    "model_key": "Shark 125",
+    "cc": "125",
+    "cc_key": "PVI_125"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Shark 170",
+    "model_key": "Shark 170",
+    "cc": "170",
+    "cc_key": "PVI_126"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Shark Mini",
+    "model_key": "Shark Mini",
+    "cc": "125",
+    "cc_key": "PVI_127"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Star",
+    "model_key": "Star",
+    "cc": "123",
+    "cc_key": "PVI_128"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Z1",
+    "model_key": "Z1",
+    "cc": "49",
+    "cc_key": "PVI_129"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Wind speed",
+    "model_key": "Wind speed",
+    "cc": "125",
+    "cc_key": "PVI_130"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Vario 125",
+    "model_key": "Vario 125",
+    "cc": "125",
+    "cc_key": "PVI_131"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Vario 150",
+    "model_key": "Vario 150",
+    "cc": "150",
+    "cc_key": "PVI_132"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Click 125",
+    "model_key": "Click 125",
+    "cc": "125",
+    "cc_key": "PVI_133"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Click 150",
+    "model_key": "Click 150",
+    "cc": "150",
+    "cc_key": "PVI_134"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Little Cub",
+    "model_key": "Little Cub",
+    "cc": "50",
+    "cc_key": "PVI_135"
+  },
+  {
+    "brand": "Kymco",
+    "brand_key": "Kymco",
+    "district": "Like 50",
+    "model_key": "Like 50",
+    "cc": "50",
+    "cc_key": "PVI_136"
+  },
+  {
+    "brand": "Kymco",
+    "brand_key": "Kymco",
+    "district": "Like 125",
+    "model_key": "Like 125",
+    "cc": "125",
+    "cc_key": "PVI_137"
+  },
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "district": "Airblade 150",
+    "model_key": "Airblade 150",
+    "cc": "150",
+    "cc_key": "PVI_138"
+  },
+  {
+    "brand": "Kymco",
+    "brand_key": "Kymco",
+    "district": "Like II 125",
+    "model_key": "Like II 125",
+    "cc": "125",
+    "cc_key": "PVI_139"
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "district": "Angel 125",
+    "model_key": "Angel 125",
+    "cc": "125",
+    "cc_key": "PVI_140"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "district": "Yaz 125",
+    "model_key": "Yaz 125",
+    "cc": "125",
+    "cc_key": "PVI_141"
+  },
+  {
+    "brand": "Vinfast",
+    "brand_key": "Vinfast",
+    "district": "Impes 1.7",
+    "model_key": "Impes 1.7",
+    "cc": "1.7",
+    "cc_key": "PVI_142"
+  },
+  {
+    "brand": "Vinfast",
+    "brand_key": "Vinfast",
+    "district": "Klara S",
+    "model_key": "Klara S",
+    "cc": "1.7",
+    "cc_key": "PVI_143"
+  },
+  {
+    "brand": "Vinfast",
+    "brand_key": "Vinfast",
+    "district": "Ludo",
+    "model_key": "Ludo",
+    "cc": "1.1",
+    "cc_key": "PVI_144"
+  },
+  {
+    "brand": "Yadea",
+    "brand_key": "Yadea",
+    "district": "Buye",
+    "model_key": "Buye",
+    "cc": "2.1",
+    "cc_key": "PVI_145"
+  },
+  {
+    "brand": "Yadea",
+    "brand_key": "Yadea",
+    "district": "E3",
+    "model_key": "E3",
+    "cc": "1.4",
+    "cc_key": "PVI_146"
+  },
+  {
+    "brand": "Yadea",
+    "brand_key": "Yadea",
+    "district": "G5",
+    "model_key": "G5",
+    "cc": "2.4",
+    "cc_key": "PVI_147"
+  },
+  {
+    "brand": "Yadea",
+    "brand_key": "Yadea",
+    "district": "ULIKE",
+    "model_key": "ULIKE",
+    "cc": "1.6",
+    "cc_key": "PVI_148"
+  }
+]

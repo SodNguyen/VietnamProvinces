@@ -1,0 +1,149 @@
+brand,brand_key,model,model_key,cc,cc_key
+Honda,Honda,Airblade 125,Airblade 125,125,PVI_1
+Honda,Honda,Airblade 108,Airblade 108,108,PVI_2
+Honda,Honda,Blade,Blade,109,PVI_3
+Honda,Honda,C100 Super dream,C100 Super dream,97,PVI_4
+Honda,Honda,Click,Click,108,PVI_5
+Honda,Honda,Dream,Dream,97,PVI_6
+Honda,Honda,Future 110,Future 110,110,PVI_7
+Honda,Honda,Future 108,Future 108,108,PVI_8
+Honda,Honda,Future 125,Future 125,125,PVI_9
+Honda,Honda,Future NEO,Future NEO,124,PVI_10
+Honda,Honda,HA-8 Super Dream,HA-8 Super Dream,97,PVI_11
+Honda,Honda,Wave anpha,Wave anpha,97,PVI_12
+Honda,Honda,HD110,HD110,107,PVI_13
+Honda,Honda,JA36 Blade,JA36 Blade,109,PVI_14
+Honda,Honda,Wave RSX,Wave RSX,109,PVI_15
+Honda,Honda,JA27 Super dream,JA27 Super dream,109,PVI_16
+Honda,Honda,Wave RS 109,Wave RS 109,109,PVI_17
+Honda,Honda,Wave S 109,Wave S 109,109,PVI_18
+Honda,Honda,Lead,Lead,108,PVI_19
+Honda,Honda,SH 125,SH 125,125,PVI_20
+Honda,Honda,PCX,PCX,125,PVI_21
+Honda,Honda,Vision,Vision,108,PVI_22
+Honda,Honda,SH Mode,SH Mode,125,PVI_23
+Honda,Honda,Winner,Winner,149,PVI_24
+Honda,Honda,SH 150,SH 150,150,PVI_25
+Honda,Honda,Lead,Lead,125,PVI_26
+Honda,Honda,MSX,MSX,125,PVI_27
+Honda,Honda,Pantheon,Pantheon,153,PVI_28
+Honda,Honda,CMX,CMX,286,PVI_29
+Honda,Honda,Rebel,Rebel,471,PVI_30
+Honda,Honda,Wave,Wave,97,PVI_31
+Honda,Honda,Wave Blade,Wave Blade,110,PVI_32
+Honda,Honda,Wave RS 97,Wave RS 97,97,PVI_33
+Honda,Honda,Wave S 97,Wave S 97,97,PVI_34
+Honda,Honda,Winner,Winner,125,PVI_35
+Piaggio,Piaggio,Fly 125,Fly 125,125,PVI_36
+Piaggio,Piaggio,Fly 150,Fly 150,150,PVI_37
+Piaggio,Piaggio,Liberty 125,Liberty 125,125,PVI_38
+Piaggio,Piaggio,Liberty 155,Liberty 155,155,PVI_39
+Piaggio,Piaggio,Liberty 150,Liberty 150,150,PVI_40
+Piaggio,Piaggio,Medley,Medley,155,PVI_41
+Piaggio,Piaggio,Vespa GTS 125,Vespa GTS 125,125,PVI_42
+Piaggio,Piaggio,Vespa GTS 155,Vespa GTS 155,155,PVI_43
+Piaggio,Piaggio,Vespa SUPER 155,Vespa SUPER 155,155,PVI_44
+Piaggio,Piaggio,Vespa SUPER 278,Vespa SUPER 278,278,PVI_45
+Piaggio,Piaggio,Vespa LX 124,Vespa LX 124,124,PVI_46
+Piaggio,Piaggio,Vespa LX 150,Vespa LX 150,150,PVI_47
+Piaggio,Piaggio,Vespa Primavera 125,Vespa Primavera 125,125,PVI_48
+Piaggio,Piaggio,Vespa Primavera 150,Vespa Primavera 150,150,PVI_49
+Piaggio,Piaggio,Vespa S 124,Vespa S 124,124,PVI_50
+Piaggio,Piaggio,Vespa S 150,Vespa S 150,150,PVI_51
+Piaggio,Piaggio,Vespa Sprint 155,Vespa Sprint 155,155,PVI_52
+Piaggio,Piaggio,Vespa Sprint 125,Vespa Sprint 125,125,PVI_53
+Piaggio,Piaggio,Zip,Zip,96,PVI_54
+Suzuki,Suzuki,Amity,Amity,125,PVI_55
+Suzuki,Suzuki,Axelo,Axelo,124,PVI_56
+Suzuki,Suzuki,Best,Best,110,PVI_57
+Suzuki,Suzuki,Crystal,Crystal,109,PVI_58
+Suzuki,Suzuki,EN,EN,149,PVI_59
+Suzuki,Suzuki,FU Raider,FU Raider,147,PVI_60
+Suzuki,Suzuki,GD,GD,113,PVI_61
+Suzuki,Suzuki,GSX,GSX,147,PVI_62
+Suzuki,Suzuki,GZ,GZ,149,PVI_63
+Suzuki,Suzuki,Hayate,Hayate,124,PVI_64
+Suzuki,Suzuki,Raider,Raider,150,PVI_65
+Suzuki,Suzuki,Revo,Revo,110,PVI_66
+Suzuki,Suzuki,RU,RU,109,PVI_67
+Suzuki,Suzuki,Shogun,Shogun,124,PVI_68
+Suzuki,Suzuki,Skydrive,Skydrive,124,PVI_69
+Suzuki,Suzuki,Smash,Smash,110,PVI_70
+Suzuki,Suzuki,Smash Revo,Smash Revo,110,PVI_71
+Suzuki,Suzuki,Thunder,Thunder,149,PVI_72
+Suzuki,Suzuki,UA,UA,124,PVI_73
+Suzuki,Suzuki,UE,UE,125,PVI_74
+Suzuki,Suzuki,UK 113,UK 113,113,PVI_75
+Suzuki,Suzuki,UK 112,UK 112,112,PVI_76
+Suzuki,Suzuki,UV 124,UV 124,124,PVI_77
+Suzuki,Suzuki,UV 125,UV 125,125,PVI_78
+Suzuki,Suzuki,Viva 113,Viva 113,113,PVI_79
+Suzuki,Suzuki,Viva 110,Viva 110,110,PVI_80
+Suzuki,Suzuki,X-bike,X-bike,124,PVI_81
+Yamaha,Yamaha,Acruzo ,Acruzo ,125,PVI_82
+Yamaha,Yamaha,Cuxi,Cuxi,101,PVI_83
+Yamaha,Yamaha,BW's,BW's,124,PVI_84
+Yamaha,Yamaha,Exiciter 150,Exiciter 150,150,PVI_85
+Yamaha,Yamaha,Exiciter 135,Exiciter 135,135,PVI_86
+Yamaha,Yamaha,FreeGo,FreeGo,125,PVI_87
+Yamaha,Yamaha,FZN,FZN,150,PVI_88
+Yamaha,Yamaha,Janus,Janus,125,PVI_89
+Yamaha,Yamaha,Gravita,Gravita,114,PVI_90
+Yamaha,Yamaha,Jupiter,Jupiter,110,PVI_91
+Yamaha,Yamaha,Latte,Latte,125,PVI_92
+Yamaha,Yamaha,Lexam,Lexam,114,PVI_93
+Yamaha,Yamaha,Luvias,Luvias,125,PVI_94
+Yamaha,Yamaha,Mio,Mio,113,PVI_95
+Yamaha,Yamaha,Nouvo,Nouvo,125,PVI_96
+Yamaha,Yamaha,Nozza,Nozza,155,PVI_97
+Yamaha,Yamaha,NVX,NVX,155,PVI_98
+Yamaha,Yamaha,Sirius,Sirius,100,PVI_99
+Yamaha,Yamaha,SV Max,SV Max,125,PVI_100
+Yamaha,Yamaha,Taurus,Taurus,114,PVI_101
+Yamaha,Yamaha,TFX,TFX,150,PVI_102
+Yamaha,Yamaha,TZX,TZX,150,PVI_103
+Vinfast,Vinfast,"Klara 2,05","Klara 2,05",2.05,PVI_104
+Vinfast,Vinfast,"Klara 1,75","Klara 1,75",1.75,PVI_105
+SYM,SYM,2,2,125,PVI_106
+SYM,SYM,Abela,Abela,111,PVI_107
+SYM,SYM,Amigo,Amigo,50,PVI_108
+SYM,SYM,Angela,Angela,108,PVI_109
+SYM,SYM,Atila,Atila,125,PVI_110
+SYM,SYM,Bonus,Bonus,125,PVI_111
+SYM,SYM,Elegant 50,Elegant 50,50,PVI_112
+SYM,SYM,Elegant 100,Elegant 100,100,PVI_113
+SYM,SYM,Elegant 110,Elegant 110,110,PVI_114
+SYM,SYM,Elite,Elite,50,PVI_115
+SYM,SYM,Enjoy,Enjoy,125,PVI_116
+SYM,SYM,Ex50,Ex50,50,PVI_117
+SYM,SYM,Fancy,Fancy,125,PVI_118
+SYM,SYM,Galaxy 50,Galaxy 50,50,PVI_119
+SYM,SYM,Galaxy 108,Galaxy 108,108,PVI_120
+SYM,SYM,Husky Classic,Husky Classic,124,PVI_121
+SYM,SYM,Joyride,Joyride,111,PVI_122
+SYM,SYM,Moto wolf,Moto wolf,125,PVI_123
+SYM,SYM,Power,Power,81,PVI_124
+SYM,SYM,Shark 125,Shark 125,125,PVI_125
+SYM,SYM,Shark 170,Shark 170,170,PVI_126
+SYM,SYM,Shark Mini,Shark Mini,125,PVI_127
+SYM,SYM,Star,Star,123,PVI_128
+SYM,SYM,Z1,Z1,49,PVI_129
+SYM,SYM,Wind speed,Wind speed,125,PVI_130
+Honda,Honda,Vario 125,Vario 125,125,PVI_131
+Honda,Honda,Vario 150,Vario 150,150,PVI_132
+Honda,Honda,Click 125,Click 125,125,PVI_133
+Honda,Honda,Click 150,Click 150,150,PVI_134
+Honda,Honda,Little Cub,Little Cub,50,PVI_135
+Kymco,Kymco,Like 50,Like 50,50,PVI_136
+Kymco,Kymco,Like 125,Like 125,125,PVI_137
+Honda,Honda,Airblade 150,Airblade 150,150,PVI_138
+Kymco,Kymco,Like II 125,Like II 125,125,PVI_139
+SYM,SYM,Angel 125,Angel 125,125,PVI_140
+Yamaha,Yamaha,Yaz 125,Yaz 125,125,PVI_141
+Vinfast,Vinfast,Impes 1.7,Impes 1.7,1.7,PVI_142
+Vinfast,Vinfast,Klara S,Klara S,1.7,PVI_143
+Vinfast,Vinfast,Ludo,Ludo,1.1,PVI_144
+Yadea,Yadea,Buye,Buye,2.1,PVI_145
+Yadea,Yadea,E3,E3,1.4,PVI_146
+Yadea,Yadea,G5,G5,2.4,PVI_147
+Yadea,Yadea,ULIKE,ULIKE,1.6,PVI_148

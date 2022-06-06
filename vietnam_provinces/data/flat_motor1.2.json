@@ -1,0 +1,1186 @@
+[
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "TZX",
+    "model_code": "TZX",
+    "cc": "150",
+    "cc_code": "PVI_103"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Husky Classic",
+    "model_code": "Husky Classic",
+    "cc": "124",
+    "cc_code": "PVI_121"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "Mio",
+    "model_code": "Mio",
+    "cc": "113",
+    "cc_code": "PVI_95"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Z1",
+    "model_code": "Z1",
+    "cc": "49",
+    "cc_code": "PVI_129"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Winner",
+    "model_code": "Winner",
+    "cc": "125",
+    "cc_code": "PVI_35"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_code": "Piaggio",
+    "model": "Vespa SUPER",
+    "model_code": "Vespa SUPER",
+    "cc": "155",
+    "cc_code": "PVI_44"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "Acruzo",
+    "model_code": "Acruzo ",
+    "cc": "125",
+    "cc_code": "PVI_82"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Moto wolf",
+    "model_code": "Moto wolf",
+    "cc": "125",
+    "cc_code": "PVI_123"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "Janus",
+    "model_code": "Janus",
+    "cc": "125",
+    "cc_code": "PVI_89"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Atila",
+    "model_code": "Atila",
+    "cc": "125",
+    "cc_code": "PVI_110"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "Latte",
+    "model_code": "Latte",
+    "cc": "125",
+    "cc_code": "PVI_92"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "EN",
+    "model_code": "EN",
+    "cc": "149",
+    "cc_code": "PVI_59"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Shark Mini",
+    "model_code": "Shark Mini",
+    "cc": "125",
+    "cc_code": "PVI_127"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "NVX",
+    "model_code": "NVX",
+    "cc": "155",
+    "cc_code": "PVI_98"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "Sirius",
+    "model_code": "Sirius",
+    "cc": "100",
+    "cc_code": "PVI_99"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Click 150",
+    "model_code": "Click 150",
+    "cc": "150",
+    "cc_code": "PVI_134"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "GSX",
+    "model_code": "GSX",
+    "cc": "147",
+    "cc_code": "PVI_62"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Click",
+    "model_code": "Click",
+    "cc": "108",
+    "cc_code": "PVI_5"
+  },
+  {
+    "brand": "Kymco",
+    "brand_code": "Kymco",
+    "model": "Like 125",
+    "model_code": "Like 125",
+    "cc": "125",
+    "cc_code": "PVI_137"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Future",
+    "model_code": "Future ",
+    "cc": "125",
+    "cc_code": "PVI_9"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Elegant",
+    "model_code": "Elegant",
+    "cc": "110",
+    "cc_code": "PVI_114"
+  },
+  {
+    "brand": "Yadea",
+    "brand_code": "Yadea",
+    "model": "ULIKE",
+    "model_code": "ULIKE",
+    "cc": "1.6",
+    "cc_code": "PVI_148"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "Axelo",
+    "model_code": "Axelo",
+    "cc": "124",
+    "cc_code": "PVI_56"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Fancy",
+    "model_code": "Fancy",
+    "cc": "125",
+    "cc_code": "PVI_118"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_code": "Piaggio",
+    "model": "Liberty",
+    "model_code": "Liberty",
+    "cc": "155",
+    "cc_code": "PVI_39"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_code": "Piaggio",
+    "model": "Vespa GTS",
+    "model_code": "Vespa GTS",
+    "cc": "125",
+    "cc_code": "PVI_42"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_code": "Piaggio",
+    "model": "Vespa Sprint",
+    "model_code": "Vespa Sprint",
+    "cc": "155",
+    "cc_code": "PVI_52"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "Revo",
+    "model_code": "Revo",
+    "cc": "110",
+    "cc_code": "PVI_66"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Amigo",
+    "model_code": "Amigo",
+    "cc": "50",
+    "cc_code": "PVI_108"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "Nouvo",
+    "model_code": "Nouvo",
+    "cc": "125",
+    "cc_code": "PVI_96"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Star",
+    "model_code": "Star",
+    "cc": "123",
+    "cc_code": "PVI_128"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "HA-8 Super Dream",
+    "model_code": "HA-8 Super Dream",
+    "cc": "97",
+    "cc_code": "PVI_11"
+  },
+  {
+    "brand": "Vinfast",
+    "brand_code": "Vinfast",
+    "model": "Klara",
+    "model_code": "Klara",
+    "cc": "2.05",
+    "cc_code": "PVI_104"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Abela",
+    "model_code": "Abela",
+    "cc": "111",
+    "cc_code": "PVI_107"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "Best",
+    "model_code": "Best",
+    "cc": "110",
+    "cc_code": "PVI_57"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Elite",
+    "model_code": "Elite",
+    "cc": "50",
+    "cc_code": "PVI_115"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "UV",
+    "model_code": "UV",
+    "cc": "125",
+    "cc_code": "PVI_78"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Power",
+    "model_code": "Power",
+    "cc": "81",
+    "cc_code": "PVI_124"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "FreeGo",
+    "model_code": "FreeGo",
+    "cc": "125",
+    "cc_code": "PVI_87"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Dream",
+    "model_code": "Dream",
+    "cc": "97",
+    "cc_code": "PVI_6"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Wave RS",
+    "model_code": "Wave RS",
+    "cc": "97",
+    "cc_code": "PVI_33"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "GD",
+    "model_code": "GD",
+    "cc": "113",
+    "cc_code": "PVI_61"
+  },
+  {
+    "brand": "Yadea",
+    "brand_code": "Yadea",
+    "model": "G5",
+    "model_code": "G5",
+    "cc": "2.4",
+    "cc_code": "PVI_147"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "HD110",
+    "model_code": "HD110",
+    "cc": "107",
+    "cc_code": "PVI_13"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_code": "Piaggio",
+    "model": "Vespa SUPER",
+    "model_code": "Vespa SUPER",
+    "cc": "278",
+    "cc_code": "PVI_45"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Elegant",
+    "model_code": "Elegant",
+    "cc": "100",
+    "cc_code": "PVI_113"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "Gravita",
+    "model_code": "Gravita",
+    "cc": "114",
+    "cc_code": "PVI_90"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "SH Mode",
+    "model_code": "SH Mode",
+    "cc": "125",
+    "cc_code": "PVI_23"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "Luvias",
+    "model_code": "Luvias",
+    "cc": "125",
+    "cc_code": "PVI_94"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Angela",
+    "model_code": "Angela",
+    "cc": "108",
+    "cc_code": "PVI_109"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "TFX",
+    "model_code": "TFX",
+    "cc": "150",
+    "cc_code": "PVI_102"
+  },
+  {
+    "brand": "Yadea",
+    "brand_code": "Yadea",
+    "model": "Buye",
+    "model_code": "Buye",
+    "cc": "2.1",
+    "cc_code": "PVI_145"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Lead",
+    "model_code": "Lead",
+    "cc": "108",
+    "cc_code": "PVI_19"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "Thunder",
+    "model_code": "Thunder",
+    "cc": "149",
+    "cc_code": "PVI_72"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "Exiciter",
+    "model_code": "Exiciter",
+    "cc": "135",
+    "cc_code": "PVI_86"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "JA27 Super dream",
+    "model_code": "JA27 Super dream",
+    "cc": "109",
+    "cc_code": "PVI_16"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "UV",
+    "model_code": "UV",
+    "cc": "124",
+    "cc_code": "PVI_77"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "Viva",
+    "model_code": "Viva",
+    "cc": "110",
+    "cc_code": "PVI_80"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Vision",
+    "model_code": "Vision",
+    "cc": "108",
+    "cc_code": "PVI_22"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Click 125",
+    "model_code": "Click 125",
+    "cc": "125",
+    "cc_code": "PVI_133"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Wave RS",
+    "model_code": "Wave RS ",
+    "cc": "109",
+    "cc_code": "PVI_17"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Vario 125",
+    "model_code": "Vario 125",
+    "cc": "125",
+    "cc_code": "PVI_131"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Joyride",
+    "model_code": "Joyride",
+    "cc": "111",
+    "cc_code": "PVI_122"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "C100 Super dream",
+    "model_code": "C100 Super dream",
+    "cc": "97",
+    "cc_code": "PVI_4"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Ex50",
+    "model_code": "Ex50",
+    "cc": "50",
+    "cc_code": "PVI_117"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "Crystal",
+    "model_code": "Crystal",
+    "cc": "109",
+    "cc_code": "PVI_58"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Future",
+    "model_code": "Future",
+    "cc": "110",
+    "cc_code": "PVI_7"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "SH",
+    "model_code": "SH",
+    "cc": "125",
+    "cc_code": "PVI_20"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Wind speed",
+    "model_code": "Wind speed",
+    "cc": "125",
+    "cc_code": "PVI_130"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "UA",
+    "model_code": "UA",
+    "cc": "124",
+    "cc_code": "PVI_73"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Wave",
+    "model_code": "Wave",
+    "cc": "97",
+    "cc_code": "PVI_31"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Wave Blade",
+    "model_code": "Wave Blade",
+    "cc": "110",
+    "cc_code": "PVI_32"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "SV Max",
+    "model_code": "SV Max",
+    "cc": "125",
+    "cc_code": "PVI_100"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_code": "Piaggio",
+    "model": "Liberty",
+    "model_code": "Liberty",
+    "cc": "125",
+    "cc_code": "PVI_38"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_code": "Piaggio",
+    "model": "Vespa LX",
+    "model_code": "Vespa LX",
+    "cc": "124",
+    "cc_code": "PVI_46"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Wave S",
+    "model_code": "Wave S",
+    "cc": "109",
+    "cc_code": "PVI_18"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "UK",
+    "model_code": "UK",
+    "cc": "113",
+    "cc_code": "PVI_75"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "Lexam",
+    "model_code": "Lexam",
+    "cc": "114",
+    "cc_code": "PVI_93"
+  },
+  {
+    "brand": "Vinfast",
+    "brand_code": "Vinfast",
+    "model": "Klara S",
+    "model_code": "Klara S",
+    "cc": "1.7",
+    "cc_code": "PVI_143"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "GZ",
+    "model_code": "GZ",
+    "cc": "149",
+    "cc_code": "PVI_63"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "Smash",
+    "model_code": "Smash",
+    "cc": "110",
+    "cc_code": "PVI_70"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Elegant",
+    "model_code": "Elegant",
+    "cc": "50",
+    "cc_code": "PVI_112"
+  },
+  {
+    "brand": "Vinfast",
+    "brand_code": "Vinfast",
+    "model": "Ludo 1.1",
+    "model_code": "Ludo 1.1",
+    "cc": "1.1",
+    "cc_code": "PVI_144"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "Smash Revo",
+    "model_code": "Smash Revo",
+    "cc": "110",
+    "cc_code": "PVI_71"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Little Cub",
+    "model_code": "Little Cub",
+    "cc": "50",
+    "cc_code": "PVI_135"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "X-bike",
+    "model_code": "X-bike",
+    "cc": "124",
+    "cc_code": "PVI_81"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Wave S",
+    "model_code": "Wave S",
+    "cc": "97",
+    "cc_code": "PVI_34"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Shark",
+    "model_code": "Shark",
+    "cc": "170",
+    "cc_code": "PVI_126"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Angel 125",
+    "model_code": "Angel 125",
+    "cc": "125",
+    "cc_code": "PVI_140"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Future NEO",
+    "model_code": "Future NEO",
+    "cc": "124",
+    "cc_code": "PVI_10"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_code": "Piaggio",
+    "model": "Vespa Primavera",
+    "model_code": "Vespa Primavera",
+    "cc": "150",
+    "cc_code": "PVI_49"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_code": "Piaggio",
+    "model": "Liberty",
+    "model_code": "Liberty",
+    "cc": "150",
+    "cc_code": "PVI_40"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Wave RSX",
+    "model_code": "Wave RSX",
+    "cc": "109",
+    "cc_code": "PVI_15"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_code": "Piaggio",
+    "model": "Vespa GTS",
+    "model_code": "Vespa GTS",
+    "cc": "155",
+    "cc_code": "PVI_43"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_code": "Piaggio",
+    "model": "Vespa LX",
+    "model_code": "Vespa LX",
+    "cc": "150",
+    "cc_code": "PVI_47"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Galaxy",
+    "model_code": "Galaxy",
+    "cc": "108",
+    "cc_code": "PVI_120"
+  },
+  {
+    "brand": "Vinfast",
+    "brand_code": "Vinfast",
+    "model": "Impes",
+    "model_code": "Impes",
+    "cc": "1.7",
+    "cc_code": "PVI_142"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Shark",
+    "model_code": "Shark",
+    "cc": "125",
+    "cc_code": "PVI_125"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "CMX",
+    "model_code": "CMX",
+    "cc": "286",
+    "cc_code": "PVI_29"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "Cuxi",
+    "model_code": "Cuxi",
+    "cc": "101",
+    "cc_code": "PVI_83"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "MSX",
+    "model_code": "MSX",
+    "cc": "125",
+    "cc_code": "PVI_27"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_code": "Piaggio",
+    "model": "Fly",
+    "model_code": "Fly",
+    "cc": "125",
+    "cc_code": "PVI_36"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "Exiciter",
+    "model_code": "Exiciter",
+    "cc": "150",
+    "cc_code": "PVI_85"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_code": "Piaggio",
+    "model": "Vespa Primavera",
+    "model_code": "Vespa Primavera",
+    "cc": "125",
+    "cc_code": "PVI_48"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_code": "Piaggio",
+    "model": "Vespa Sprint",
+    "model_code": "Vespa Sprint",
+    "cc": "125",
+    "cc_code": "PVI_53"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "Viva",
+    "model_code": "Viva",
+    "cc": "113",
+    "cc_code": "PVI_79"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "Hayate",
+    "model_code": "Hayate",
+    "cc": "124",
+    "cc_code": "PVI_64"
+  },
+  {
+    "brand": "Vinfast",
+    "brand_code": "Vinfast",
+    "model": "Klara",
+    "model_code": "Klara",
+    "cc": "1.75",
+    "cc_code": "PVI_105"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Airblade",
+    "model_code": "Airblade",
+    "cc": "125",
+    "cc_code": "PVI_1"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_code": "Piaggio",
+    "model": "Vespa S",
+    "model_code": "Vespa S",
+    "cc": "124",
+    "cc_code": "PVI_50"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "RU",
+    "model_code": "RU",
+    "cc": "109",
+    "cc_code": "PVI_67"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "JA36 Blade",
+    "model_code": "JA36 Blade",
+    "cc": "109",
+    "cc_code": "PVI_14"
+  },
+  {
+    "brand": "honda",
+    "brand_code": "honda",
+    "model": "Vario 150",
+    "model_code": "Vario 150",
+    "cc": "150",
+    "cc_code": "PVI_132"
+  },
+  {
+    "brand": "Kymco",
+    "brand_code": "Kymco",
+    "model": "Like II 125",
+    "model_code": "Like II 125",
+    "cc": "125",
+    "cc_code": "PVI_139"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "Yaz 125",
+    "model_code": "Yaz 125",
+    "cc": "125",
+    "cc_code": "PVI_141"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "2",
+    "model_code": "2",
+    "cc": "125",
+    "cc_code": "PVI_106"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "Amity",
+    "model_code": "Amity",
+    "cc": "125",
+    "cc_code": "PVI_55"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_code": "Piaggio",
+    "model": "Vespa S",
+    "model_code": "Vespa S",
+    "cc": "150",
+    "cc_code": "PVI_51"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Bonus",
+    "model_code": "Bonus",
+    "cc": "125",
+    "cc_code": "PVI_111"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_code": "Piaggio",
+    "model": "Medley",
+    "model_code": "Medley",
+    "cc": "155",
+    "cc_code": "PVI_41"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Winner",
+    "model_code": "Winner",
+    "cc": "149",
+    "cc_code": "PVI_24"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Airblade",
+    "model_code": "Airblade",
+    "cc": "108",
+    "cc_code": "PVI_2"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "BW's",
+    "model_code": "BW's",
+    "cc": "124",
+    "cc_code": "PVI_84"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "Taurus",
+    "model_code": "Taurus",
+    "cc": "114",
+    "cc_code": "PVI_101"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Rebel",
+    "model_code": "Rebel",
+    "cc": "471",
+    "cc_code": "PVI_30"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_code": "Piaggio",
+    "model": "Zip",
+    "model_code": "Zip",
+    "cc": "96",
+    "cc_code": "PVI_54"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "UE",
+    "model_code": "UE",
+    "cc": "125",
+    "cc_code": "PVI_74"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Pantheon",
+    "model_code": "Pantheon",
+    "cc": "153",
+    "cc_code": "PVI_28"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "Raider",
+    "model_code": "Raider",
+    "cc": "150",
+    "cc_code": "PVI_65"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Future",
+    "model_code": "Future",
+    "cc": "108",
+    "cc_code": "PVI_8"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Enjoy",
+    "model_code": "Enjoy",
+    "cc": "125",
+    "cc_code": "PVI_116"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Blade",
+    "model_code": "Blade",
+    "cc": "109",
+    "cc_code": "PVI_3"
+  },
+  {
+    "brand": "Yadea",
+    "brand_code": "Yadea",
+    "model": "E3",
+    "model_code": "E3",
+    "cc": "1.4",
+    "cc_code": "PVI_146"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "FU Raider",
+    "model_code": "FU Raider",
+    "cc": "147",
+    "cc_code": "PVI_60"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "Jupiter",
+    "model_code": "Jupiter",
+    "cc": "110",
+    "cc_code": "PVI_91"
+  },
+  {
+    "brand": "Kymco",
+    "brand_code": "Kymco",
+    "model": "Like 50",
+    "model_code": "Like 50",
+    "cc": "50",
+    "cc_code": "PVI_136"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "Nozza",
+    "model_code": "Nozza",
+    "cc": "155",
+    "cc_code": "PVI_97"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "SH",
+    "model_code": "SH",
+    "cc": "150",
+    "cc_code": "PVI_25"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "Shogun",
+    "model_code": "Shogun",
+    "cc": "124",
+    "cc_code": "PVI_68"
+  },
+  {
+    "brand": "Yamaha",
+    "brand_code": "Yamaha",
+    "model": "FZN",
+    "model_code": "FZN",
+    "cc": "150",
+    "cc_code": "PVI_88"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "PCX",
+    "model_code": "PCX",
+    "cc": "125",
+    "cc_code": "PVI_21"
+  },
+  {
+    "brand": "honda",
+    "brand_code": "honda",
+    "model": "Airblade 150",
+    "model_code": "Airblade 150",
+    "cc": "150",
+    "cc_code": "PVI_138"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Wave anpha",
+    "model_code": "Wave anpha",
+    "cc": "97",
+    "cc_code": "PVI_12"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "Skydrive",
+    "model_code": "Skydrive",
+    "cc": "124",
+    "cc_code": "PVI_69"
+  },
+  {
+    "brand": "Suzuki",
+    "brand_code": "Suzuki",
+    "model": "UK",
+    "model_code": "UK",
+    "cc": "113",
+    "cc_code": "PVI_76"
+  },
+  {
+    "brand": "SYM",
+    "brand_code": "SYM",
+    "model": "Galaxy",
+    "model_code": "Galaxy",
+    "cc": "50",
+    "cc_code": "PVI_119"
+  },
+  {
+    "brand": "Honda",
+    "brand_code": "Honda",
+    "model": "Lead",
+    "model_code": "Lead",
+    "cc": "125",
+    "cc_code": "PVI_26"
+  },
+  {
+    "brand": "Piaggio",
+    "brand_code": "Piaggio",
+    "model": "Fly",
+    "model_code": "Fly",
+    "cc": "150",
+    "cc_code": "PVI_37"
+  }
+]

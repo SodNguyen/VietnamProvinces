@@ -1,0 +1,1518 @@
+[
+  {
+    "brand": "Honda",
+    "brand_key": "Honda",
+    "models": [
+      {
+        "model": "Airblade 125",
+        "model_key": "Airblade 125",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_1"
+          }
+        ]
+      },
+      {
+        "model": "Airblade 108",
+        "model_key": "Airblade 108",
+        "ccs": [
+          {
+            "cc": "108",
+            "cc_key": "PVI_2"
+          }
+        ]
+      },
+      {
+        "model": "Blade",
+        "model_key": "Blade",
+        "ccs": [
+          {
+            "cc": "109",
+            "cc_key": "PVI_3"
+          }
+        ]
+      },
+      {
+        "model": "C100 Super dream",
+        "model_key": "C100 Super dream",
+        "ccs": [
+          {
+            "cc": "97",
+            "cc_key": "PVI_4"
+          }
+        ]
+      },
+      {
+        "model": "Click",
+        "model_key": "Click",
+        "ccs": [
+          {
+            "cc": "108",
+            "cc_key": "PVI_5"
+          }
+        ]
+      },
+      {
+        "model": "Dream",
+        "model_key": "Dream",
+        "ccs": [
+          {
+            "cc": "97",
+            "cc_key": "PVI_6"
+          }
+        ]
+      },
+      {
+        "model": "Future 110",
+        "model_key": "Future 110",
+        "ccs": [
+          {
+            "cc": "110",
+            "cc_key": "PVI_7"
+          }
+        ]
+      },
+      {
+        "model": "Future 108",
+        "model_key": "Future 108",
+        "ccs": [
+          {
+            "cc": "108",
+            "cc_key": "PVI_8"
+          }
+        ]
+      },
+      {
+        "model": "Future 125",
+        "model_key": "Future 125",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_9"
+          }
+        ]
+      },
+      {
+        "model": "Future NEO",
+        "model_key": "Future NEO",
+        "ccs": [
+          {
+            "cc": "124",
+            "cc_key": "PVI_10"
+          }
+        ]
+      },
+      {
+        "model": "HA-8 Super Dream",
+        "model_key": "HA-8 Super Dream",
+        "ccs": [
+          {
+            "cc": "97",
+            "cc_key": "PVI_11"
+          }
+        ]
+      },
+      {
+        "model": "Wave anpha",
+        "model_key": "Wave anpha",
+        "ccs": [
+          {
+            "cc": "97",
+            "cc_key": "PVI_12"
+          }
+        ]
+      },
+      {
+        "model": "HD110",
+        "model_key": "HD110",
+        "ccs": [
+          {
+            "cc": "107",
+            "cc_key": "PVI_13"
+          }
+        ]
+      },
+      {
+        "model": "JA36 Blade",
+        "model_key": "JA36 Blade",
+        "ccs": [
+          {
+            "cc": "109",
+            "cc_key": "PVI_14"
+          }
+        ]
+      },
+      {
+        "model": "Wave RSX",
+        "model_key": "Wave RSX",
+        "ccs": [
+          {
+            "cc": "109",
+            "cc_key": "PVI_15"
+          }
+        ]
+      },
+      {
+        "model": "JA27 Super dream",
+        "model_key": "JA27 Super dream",
+        "ccs": [
+          {
+            "cc": "109",
+            "cc_key": "PVI_16"
+          }
+        ]
+      },
+      {
+        "model": "Wave RS 109",
+        "model_key": "Wave RS 109",
+        "ccs": [
+          {
+            "cc": "109",
+            "cc_key": "PVI_17"
+          }
+        ]
+      },
+      {
+        "model": "Wave S 109",
+        "model_key": "Wave S 109",
+        "ccs": [
+          {
+            "cc": "109",
+            "cc_key": "PVI_18"
+          }
+        ]
+      },
+      {
+        "model": "Lead",
+        "model_key": "Lead",
+        "ccs": [
+          {
+            "cc": "108",
+            "cc_key": "PVI_19"
+          },
+          {
+            "cc": "125",
+            "cc_key": "PVI_26"
+          }
+        ]
+      },
+      {
+        "model": "SH 125",
+        "model_key": "SH 125",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_20"
+          }
+        ]
+      },
+      {
+        "model": "PCX",
+        "model_key": "PCX",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_21"
+          }
+        ]
+      },
+      {
+        "model": "Vision",
+        "model_key": "Vision",
+        "ccs": [
+          {
+            "cc": "108",
+            "cc_key": "PVI_22"
+          }
+        ]
+      },
+      {
+        "model": "SH Mode",
+        "model_key": "SH Mode",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_23"
+          }
+        ]
+      },
+      {
+        "model": "Winner",
+        "model_key": "Winner",
+        "ccs": [
+          {
+            "cc": "149",
+            "cc_key": "PVI_24"
+          },
+          {
+            "cc": "125",
+            "cc_key": "PVI_35"
+          }
+        ]
+      },
+      {
+        "model": "SH 150",
+        "model_key": "SH 150",
+        "ccs": [
+          {
+            "cc": "150",
+            "cc_key": "PVI_25"
+          }
+        ]
+      },
+      {
+        "model": "MSX",
+        "model_key": "MSX",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_27"
+          }
+        ]
+      },
+      {
+        "model": "Pantheon",
+        "model_key": "Pantheon",
+        "ccs": [
+          {
+            "cc": "153",
+            "cc_key": "PVI_28"
+          }
+        ]
+      },
+      {
+        "model": "CMX",
+        "model_key": "CMX",
+        "ccs": [
+          {
+            "cc": "286",
+            "cc_key": "PVI_29"
+          }
+        ]
+      },
+      {
+        "model": "Rebel",
+        "model_key": "Rebel",
+        "ccs": [
+          {
+            "cc": "471",
+            "cc_key": "PVI_30"
+          }
+        ]
+      },
+      {
+        "model": "Wave",
+        "model_key": "Wave",
+        "ccs": [
+          {
+            "cc": "97",
+            "cc_key": "PVI_31"
+          }
+        ]
+      },
+      {
+        "model": "Wave Blade",
+        "model_key": "Wave Blade",
+        "ccs": [
+          {
+            "cc": "110",
+            "cc_key": "PVI_32"
+          }
+        ]
+      },
+      {
+        "model": "Wave RS 97",
+        "model_key": "Wave RS 97",
+        "ccs": [
+          {
+            "cc": "97",
+            "cc_key": "PVI_33"
+          }
+        ]
+      },
+      {
+        "model": "Wave S 97",
+        "model_key": "Wave S 97",
+        "ccs": [
+          {
+            "cc": "97",
+            "cc_key": "PVI_34"
+          }
+        ]
+      },
+      {
+        "model": "Vario 125",
+        "model_key": "Vario 125",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_131"
+          }
+        ]
+      },
+      {
+        "model": "Vario 150",
+        "model_key": "Vario 150",
+        "ccs": [
+          {
+            "cc": "150",
+            "cc_key": "PVI_132"
+          }
+        ]
+      },
+      {
+        "model": "Click 125",
+        "model_key": "Click 125",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_133"
+          }
+        ]
+      },
+      {
+        "model": "Click 150",
+        "model_key": "Click 150",
+        "ccs": [
+          {
+            "cc": "150",
+            "cc_key": "PVI_134"
+          }
+        ]
+      },
+      {
+        "model": "Little Cub",
+        "model_key": "Little Cub",
+        "ccs": [
+          {
+            "cc": "50",
+            "cc_key": "PVI_135"
+          }
+        ]
+      },
+      {
+        "model": "Airblade 150",
+        "model_key": "Airblade 150",
+        "ccs": [
+          {
+            "cc": "150",
+            "cc_key": "PVI_138"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Piaggio",
+    "brand_key": "Piaggio",
+    "models": [
+      {
+        "model": "Fly 125",
+        "model_key": "Fly 125",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_36"
+          }
+        ]
+      },
+      {
+        "model": "Fly 150",
+        "model_key": "Fly 150",
+        "ccs": [
+          {
+            "cc": "150",
+            "cc_key": "PVI_37"
+          }
+        ]
+      },
+      {
+        "model": "Liberty 125",
+        "model_key": "Liberty 125",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_38"
+          }
+        ]
+      },
+      {
+        "model": "Liberty 155",
+        "model_key": "Liberty 155",
+        "ccs": [
+          {
+            "cc": "155",
+            "cc_key": "PVI_39"
+          }
+        ]
+      },
+      {
+        "model": "Liberty 150",
+        "model_key": "Liberty 150",
+        "ccs": [
+          {
+            "cc": "150",
+            "cc_key": "PVI_40"
+          }
+        ]
+      },
+      {
+        "model": "Medley",
+        "model_key": "Medley",
+        "ccs": [
+          {
+            "cc": "155",
+            "cc_key": "PVI_41"
+          }
+        ]
+      },
+      {
+        "model": "Vespa GTS 125",
+        "model_key": "Vespa GTS 125",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_42"
+          }
+        ]
+      },
+      {
+        "model": "Vespa GTS 155",
+        "model_key": "Vespa GTS 155",
+        "ccs": [
+          {
+            "cc": "155",
+            "cc_key": "PVI_43"
+          }
+        ]
+      },
+      {
+        "model": "Vespa SUPER 155",
+        "model_key": "Vespa SUPER 155",
+        "ccs": [
+          {
+            "cc": "155",
+            "cc_key": "PVI_44"
+          }
+        ]
+      },
+      {
+        "model": "Vespa SUPER 278",
+        "model_key": "Vespa SUPER 278",
+        "ccs": [
+          {
+            "cc": "278",
+            "cc_key": "PVI_45"
+          }
+        ]
+      },
+      {
+        "model": "Vespa LX 124",
+        "model_key": "Vespa LX 124",
+        "ccs": [
+          {
+            "cc": "124",
+            "cc_key": "PVI_46"
+          }
+        ]
+      },
+      {
+        "model": "Vespa LX 150",
+        "model_key": "Vespa LX 150",
+        "ccs": [
+          {
+            "cc": "150",
+            "cc_key": "PVI_47"
+          }
+        ]
+      },
+      {
+        "model": "Vespa Primavera 125",
+        "model_key": "Vespa Primavera 125",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_48"
+          }
+        ]
+      },
+      {
+        "model": "Vespa Primavera 150",
+        "model_key": "Vespa Primavera 150",
+        "ccs": [
+          {
+            "cc": "150",
+            "cc_key": "PVI_49"
+          }
+        ]
+      },
+      {
+        "model": "Vespa S 124",
+        "model_key": "Vespa S 124",
+        "ccs": [
+          {
+            "cc": "124",
+            "cc_key": "PVI_50"
+          }
+        ]
+      },
+      {
+        "model": "Vespa S 150",
+        "model_key": "Vespa S 150",
+        "ccs": [
+          {
+            "cc": "150",
+            "cc_key": "PVI_51"
+          }
+        ]
+      },
+      {
+        "model": "Vespa Sprint 155",
+        "model_key": "Vespa Sprint 155",
+        "ccs": [
+          {
+            "cc": "155",
+            "cc_key": "PVI_52"
+          }
+        ]
+      },
+      {
+        "model": "Vespa Sprint 125",
+        "model_key": "Vespa Sprint 125",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_53"
+          }
+        ]
+      },
+      {
+        "model": "Zip",
+        "model_key": "Zip",
+        "ccs": [
+          {
+            "cc": "96",
+            "cc_key": "PVI_54"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Suzuki",
+    "brand_key": "Suzuki",
+    "models": [
+      {
+        "model": "Amity",
+        "model_key": "Amity",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_55"
+          }
+        ]
+      },
+      {
+        "model": "Axelo",
+        "model_key": "Axelo",
+        "ccs": [
+          {
+            "cc": "124",
+            "cc_key": "PVI_56"
+          }
+        ]
+      },
+      {
+        "model": "Best",
+        "model_key": "Best",
+        "ccs": [
+          {
+            "cc": "110",
+            "cc_key": "PVI_57"
+          }
+        ]
+      },
+      {
+        "model": "Crystal",
+        "model_key": "Crystal",
+        "ccs": [
+          {
+            "cc": "109",
+            "cc_key": "PVI_58"
+          }
+        ]
+      },
+      {
+        "model": "EN",
+        "model_key": "EN",
+        "ccs": [
+          {
+            "cc": "149",
+            "cc_key": "PVI_59"
+          }
+        ]
+      },
+      {
+        "model": "FU Raider",
+        "model_key": "FU Raider",
+        "ccs": [
+          {
+            "cc": "147",
+            "cc_key": "PVI_60"
+          }
+        ]
+      },
+      {
+        "model": "GD",
+        "model_key": "GD",
+        "ccs": [
+          {
+            "cc": "113",
+            "cc_key": "PVI_61"
+          }
+        ]
+      },
+      {
+        "model": "GSX",
+        "model_key": "GSX",
+        "ccs": [
+          {
+            "cc": "147",
+            "cc_key": "PVI_62"
+          }
+        ]
+      },
+      {
+        "model": "GZ",
+        "model_key": "GZ",
+        "ccs": [
+          {
+            "cc": "149",
+            "cc_key": "PVI_63"
+          }
+        ]
+      },
+      {
+        "model": "Hayate",
+        "model_key": "Hayate",
+        "ccs": [
+          {
+            "cc": "124",
+            "cc_key": "PVI_64"
+          }
+        ]
+      },
+      {
+        "model": "Raider",
+        "model_key": "Raider",
+        "ccs": [
+          {
+            "cc": "150",
+            "cc_key": "PVI_65"
+          }
+        ]
+      },
+      {
+        "model": "Revo",
+        "model_key": "Revo",
+        "ccs": [
+          {
+            "cc": "110",
+            "cc_key": "PVI_66"
+          }
+        ]
+      },
+      {
+        "model": "RU",
+        "model_key": "RU",
+        "ccs": [
+          {
+            "cc": "109",
+            "cc_key": "PVI_67"
+          }
+        ]
+      },
+      {
+        "model": "Shogun",
+        "model_key": "Shogun",
+        "ccs": [
+          {
+            "cc": "124",
+            "cc_key": "PVI_68"
+          }
+        ]
+      },
+      {
+        "model": "Skydrive",
+        "model_key": "Skydrive",
+        "ccs": [
+          {
+            "cc": "124",
+            "cc_key": "PVI_69"
+          }
+        ]
+      },
+      {
+        "model": "Smash",
+        "model_key": "Smash",
+        "ccs": [
+          {
+            "cc": "110",
+            "cc_key": "PVI_70"
+          }
+        ]
+      },
+      {
+        "model": "Smash Revo",
+        "model_key": "Smash Revo",
+        "ccs": [
+          {
+            "cc": "110",
+            "cc_key": "PVI_71"
+          }
+        ]
+      },
+      {
+        "model": "Thunder",
+        "model_key": "Thunder",
+        "ccs": [
+          {
+            "cc": "149",
+            "cc_key": "PVI_72"
+          }
+        ]
+      },
+      {
+        "model": "UA",
+        "model_key": "UA",
+        "ccs": [
+          {
+            "cc": "124",
+            "cc_key": "PVI_73"
+          }
+        ]
+      },
+      {
+        "model": "UE",
+        "model_key": "UE",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_74"
+          }
+        ]
+      },
+      {
+        "model": "UK 113",
+        "model_key": "UK 113",
+        "ccs": [
+          {
+            "cc": "113",
+            "cc_key": "PVI_75"
+          }
+        ]
+      },
+      {
+        "model": "UK 112",
+        "model_key": "UK 112",
+        "ccs": [
+          {
+            "cc": "112",
+            "cc_key": "PVI_76"
+          }
+        ]
+      },
+      {
+        "model": "UV 124",
+        "model_key": "UV 124",
+        "ccs": [
+          {
+            "cc": "124",
+            "cc_key": "PVI_77"
+          }
+        ]
+      },
+      {
+        "model": "UV 125",
+        "model_key": "UV 125",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_78"
+          }
+        ]
+      },
+      {
+        "model": "Viva 113",
+        "model_key": "Viva 113",
+        "ccs": [
+          {
+            "cc": "113",
+            "cc_key": "PVI_79"
+          }
+        ]
+      },
+      {
+        "model": "Viva 110",
+        "model_key": "Viva 110",
+        "ccs": [
+          {
+            "cc": "110",
+            "cc_key": "PVI_80"
+          }
+        ]
+      },
+      {
+        "model": "X-bike",
+        "model_key": "X-bike",
+        "ccs": [
+          {
+            "cc": "124",
+            "cc_key": "PVI_81"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Yamaha",
+    "brand_key": "Yamaha",
+    "models": [
+      {
+        "model": "Acruzo",
+        "model_key": "Acruzo ",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_82"
+          }
+        ]
+      },
+      {
+        "model": "Cuxi",
+        "model_key": "Cuxi",
+        "ccs": [
+          {
+            "cc": "101",
+            "cc_key": "PVI_83"
+          }
+        ]
+      },
+      {
+        "model": "BW's",
+        "model_key": "BW's",
+        "ccs": [
+          {
+            "cc": "124",
+            "cc_key": "PVI_84"
+          }
+        ]
+      },
+      {
+        "model": "Exciter 150",
+        "model_key": "Exciter 150",
+        "ccs": [
+          {
+            "cc": "150",
+            "cc_key": "PVI_85"
+          }
+        ]
+      },
+      {
+        "model": "Exciter 135",
+        "model_key": "Exciter 135",
+        "ccs": [
+          {
+            "cc": "135",
+            "cc_key": "PVI_86"
+          }
+        ]
+      },
+      {
+        "model": "FreeGo",
+        "model_key": "FreeGo",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_87"
+          }
+        ]
+      },
+      {
+        "model": "FZN",
+        "model_key": "FZN",
+        "ccs": [
+          {
+            "cc": "150",
+            "cc_key": "PVI_88"
+          }
+        ]
+      },
+      {
+        "model": "Janus",
+        "model_key": "Janus",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_89"
+          }
+        ]
+      },
+      {
+        "model": "Gravita",
+        "model_key": "Gravita",
+        "ccs": [
+          {
+            "cc": "114",
+            "cc_key": "PVI_90"
+          }
+        ]
+      },
+      {
+        "model": "Jupiter",
+        "model_key": "Jupiter",
+        "ccs": [
+          {
+            "cc": "110",
+            "cc_key": "PVI_91"
+          }
+        ]
+      },
+      {
+        "model": "Latte",
+        "model_key": "Latte",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_92"
+          }
+        ]
+      },
+      {
+        "model": "Lexam",
+        "model_key": "Lexam",
+        "ccs": [
+          {
+            "cc": "114",
+            "cc_key": "PVI_93"
+          }
+        ]
+      },
+      {
+        "model": "Luvias",
+        "model_key": "Luvias",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_94"
+          }
+        ]
+      },
+      {
+        "model": "Mio",
+        "model_key": "Mio",
+        "ccs": [
+          {
+            "cc": "113",
+            "cc_key": "PVI_95"
+          }
+        ]
+      },
+      {
+        "model": "Nouvo",
+        "model_key": "Nouvo",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_96"
+          }
+        ]
+      },
+      {
+        "model": "Nozza",
+        "model_key": "Nozza",
+        "ccs": [
+          {
+            "cc": "155",
+            "cc_key": "PVI_97"
+          }
+        ]
+      },
+      {
+        "model": "NVX",
+        "model_key": "NVX",
+        "ccs": [
+          {
+            "cc": "155",
+            "cc_key": "PVI_98"
+          }
+        ]
+      },
+      {
+        "model": "Sirius",
+        "model_key": "Sirius",
+        "ccs": [
+          {
+            "cc": "100",
+            "cc_key": "PVI_99"
+          }
+        ]
+      },
+      {
+        "model": "SV Max",
+        "model_key": "SV Max",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_100"
+          }
+        ]
+      },
+      {
+        "model": "Taurus",
+        "model_key": "Taurus",
+        "ccs": [
+          {
+            "cc": "114",
+            "cc_key": "PVI_101"
+          }
+        ]
+      },
+      {
+        "model": "TFX",
+        "model_key": "TFX",
+        "ccs": [
+          {
+            "cc": "150",
+            "cc_key": "PVI_102"
+          }
+        ]
+      },
+      {
+        "model": "TZX",
+        "model_key": "TZX",
+        "ccs": [
+          {
+            "cc": "150",
+            "cc_key": "PVI_103"
+          }
+        ]
+      },
+      {
+        "model": "Yaz 125",
+        "model_key": "Yaz 125",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_141"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Vinfast",
+    "brand_key": "Vinfast",
+    "models": [
+      {
+        "model": "Klara 2,05",
+        "model_key": "Klara 2,05",
+        "ccs": [
+          {
+            "cc": "2.05",
+            "cc_key": "PVI_104"
+          }
+        ]
+      },
+      {
+        "model": "Klara 1,75",
+        "model_key": "Klara 1,75",
+        "ccs": [
+          {
+            "cc": "1.75",
+            "cc_key": "PVI_105"
+          }
+        ]
+      },
+      {
+        "model": "Impes 1.7",
+        "model_key": "Impes 1.7",
+        "ccs": [
+          {
+            "cc": "1.7",
+            "cc_key": "PVI_142"
+          }
+        ]
+      },
+      {
+        "model": "Klara S",
+        "model_key": "Klara S",
+        "ccs": [
+          {
+            "cc": "1.7",
+            "cc_key": "PVI_143"
+          }
+        ]
+      },
+      {
+        "model": "Ludo",
+        "model_key": "Ludo",
+        "ccs": [
+          {
+            "cc": "1.1",
+            "cc_key": "PVI_144"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "SYM",
+    "brand_key": "SYM",
+    "models": [
+      {
+        "model": "2",
+        "model_key": "2",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_106"
+          }
+        ]
+      },
+      {
+        "model": "Abela",
+        "model_key": "Abela",
+        "ccs": [
+          {
+            "cc": "111",
+            "cc_key": "PVI_107"
+          }
+        ]
+      },
+      {
+        "model": "Amigo",
+        "model_key": "Amigo",
+        "ccs": [
+          {
+            "cc": "50",
+            "cc_key": "PVI_108"
+          }
+        ]
+      },
+      {
+        "model": "Angela",
+        "model_key": "Angela",
+        "ccs": [
+          {
+            "cc": "108",
+            "cc_key": "PVI_109"
+          }
+        ]
+      },
+      {
+        "model": "Atila",
+        "model_key": "Atila",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_110"
+          }
+        ]
+      },
+      {
+        "model": "Bonus",
+        "model_key": "Bonus",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_111"
+          }
+        ]
+      },
+      {
+        "model": "Elegant 50",
+        "model_key": "Elegant 50",
+        "ccs": [
+          {
+            "cc": "50",
+            "cc_key": "PVI_112"
+          }
+        ]
+      },
+      {
+        "model": "Elegant 100",
+        "model_key": "Elegant 100",
+        "ccs": [
+          {
+            "cc": "100",
+            "cc_key": "PVI_113"
+          }
+        ]
+      },
+      {
+        "model": "Elegant 110",
+        "model_key": "Elegant 110",
+        "ccs": [
+          {
+            "cc": "110",
+            "cc_key": "PVI_114"
+          }
+        ]
+      },
+      {
+        "model": "Elite",
+        "model_key": "Elite",
+        "ccs": [
+          {
+            "cc": "50",
+            "cc_key": "PVI_115"
+          }
+        ]
+      },
+      {
+        "model": "Enjoy",
+        "model_key": "Enjoy",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_116"
+          }
+        ]
+      },
+      {
+        "model": "Ex50",
+        "model_key": "Ex50",
+        "ccs": [
+          {
+            "cc": "50",
+            "cc_key": "PVI_117"
+          }
+        ]
+      },
+      {
+        "model": "Fancy",
+        "model_key": "Fancy",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_118"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy 50",
+        "model_key": "Galaxy 50",
+        "ccs": [
+          {
+            "cc": "50",
+            "cc_key": "PVI_119"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy 108",
+        "model_key": "Galaxy 108",
+        "ccs": [
+          {
+            "cc": "108",
+            "cc_key": "PVI_120"
+          }
+        ]
+      },
+      {
+        "model": "Husky Classic",
+        "model_key": "Husky Classic",
+        "ccs": [
+          {
+            "cc": "124",
+            "cc_key": "PVI_121"
+          }
+        ]
+      },
+      {
+        "model": "Joyride",
+        "model_key": "Joyride",
+        "ccs": [
+          {
+            "cc": "111",
+            "cc_key": "PVI_122"
+          }
+        ]
+      },
+      {
+        "model": "Moto wolf",
+        "model_key": "Moto wolf",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_123"
+          }
+        ]
+      },
+      {
+        "model": "Power",
+        "model_key": "Power",
+        "ccs": [
+          {
+            "cc": "81",
+            "cc_key": "PVI_124"
+          }
+        ]
+      },
+      {
+        "model": "Shark 125",
+        "model_key": "Shark 125",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_125"
+          }
+        ]
+      },
+      {
+        "model": "Shark 170",
+        "model_key": "Shark 170",
+        "ccs": [
+          {
+            "cc": "170",
+            "cc_key": "PVI_126"
+          }
+        ]
+      },
+      {
+        "model": "Shark Mini",
+        "model_key": "Shark Mini",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_127"
+          }
+        ]
+      },
+      {
+        "model": "Star",
+        "model_key": "Star",
+        "ccs": [
+          {
+            "cc": "123",
+            "cc_key": "PVI_128"
+          }
+        ]
+      },
+      {
+        "model": "Z1",
+        "model_key": "Z1",
+        "ccs": [
+          {
+            "cc": "49",
+            "cc_key": "PVI_129"
+          }
+        ]
+      },
+      {
+        "model": "Wind speed",
+        "model_key": "Wind speed",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_130"
+          }
+        ]
+      },
+      {
+        "model": "Angel 125",
+        "model_key": "Angel 125",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_140"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Kymco",
+    "brand_key": "Kymco",
+    "models": [
+      {
+        "model": "Like 50",
+        "model_key": "Like 50",
+        "ccs": [
+          {
+            "cc": "50",
+            "cc_key": "PVI_136"
+          }
+        ]
+      },
+      {
+        "model": "Like 125",
+        "model_key": "Like 125",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_137"
+          }
+        ]
+      },
+      {
+        "model": "Like II 125",
+        "model_key": "Like II 125",
+        "ccs": [
+          {
+            "cc": "125",
+            "cc_key": "PVI_139"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Yadea",
+    "brand_key": "Yadea",
+    "models": [
+      {
+        "model": "Buye",
+        "model_key": "Buye",
+        "ccs": [
+          {
+            "cc": "2.1",
+            "cc_key": "PVI_145"
+          }
+        ]
+      },
+      {
+        "model": "E3",
+        "model_key": "E3",
+        "ccs": [
+          {
+            "cc": "1.4",
+            "cc_key": "PVI_146"
+          }
+        ]
+      },
+      {
+        "model": "G5",
+        "model_key": "G5",
+        "ccs": [
+          {
+            "cc": "2.4",
+            "cc_key": "PVI_147"
+          }
+        ]
+      },
+      {
+        "model": "ULIKE",
+        "model_key": "ULIKE",
+        "ccs": [
+          {
+            "cc": "1.6",
+            "cc_key": "PVI_148"
+          }
+        ]
+      }
+    ]
+  }
+]

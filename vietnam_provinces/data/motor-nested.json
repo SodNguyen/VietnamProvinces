@@ -1,0 +1,314 @@
+[
+  {
+    "no": "1",
+    "brand": "HONDA",
+    "models": [
+      {
+        "model": "AIRBLADE",
+        "cc": "124.9"
+      },
+      {
+        "model": "AIRBLADE",
+        "cc": "108"
+      },
+      {
+        "model": "BLADE",
+        "cc": "109.1"
+      },
+      {
+        "model": "C100 SUPER DREAM",
+        "cc": "97"
+      },
+      {
+        "model": "FUTURE",
+        "cc": "110"
+      },
+      {
+        "model": "FUTURE NEO",
+        "cc": "124"
+      },
+      {
+        "model": "HD110",
+        "cc": "107"
+      },
+      {
+        "model": "SH",
+        "cc": "124.6"
+      },
+      {
+        "model": "WINNER",
+        "cc": "149.1"
+      },
+      {
+        "model": "SH",
+        "cc": "150"
+      },
+      {
+        "model": "LEAD",
+        "cc": "125"
+      },
+      {
+        "model": "PANTHEON",
+        "cc": "153"
+      },
+      {
+        "model": "CMX",
+        "cc": "286.01"
+      },
+      {
+        "model": "REBEL",
+        "cc": "471"
+      },
+      {
+        "model": "LITTLE CUB",
+        "cc": "50"
+      }
+    ]
+  },
+  {
+    "no": "36",
+    "brand": "PIAGGIO",
+    "models": [
+      {
+        "model": "FLY",
+        "cc": "124.5"
+      },
+      {
+        "model": "FLY",
+        "cc": "149.5"
+      },
+      {
+        "model": "LIBERTY",
+        "cc": "154.8"
+      },
+      {
+        "model": "MEDLEY",
+        "cc": "155.1"
+      },
+      {
+        "model": "VESPA SUPER",
+        "cc": "278.3"
+      },
+      {
+        "model": "VESPA LX",
+        "cc": "124"
+      },
+      {
+        "model": "VESPA PRIMAVERA",
+        "cc": "150"
+      },
+      {
+        "model": "ZIP",
+        "cc": "96"
+      }
+    ]
+  },
+  {
+    "no": "55",
+    "brand": "SUZUKI",
+    "models": [
+      {
+        "model": "AMITY",
+        "cc": "124.5"
+      },
+      {
+        "model": "AXELO",
+        "cc": "124"
+      },
+      {
+        "model": "BEST",
+        "cc": "109.7"
+      },
+      {
+        "model": "CRYSTAL",
+        "cc": "109"
+      },
+      {
+        "model": "EN",
+        "cc": "149"
+      },
+      {
+        "model": "FU RAIDER",
+        "cc": "147"
+      },
+      {
+        "model": "GD",
+        "cc": "112.8"
+      },
+      {
+        "model": "GSX",
+        "cc": "147.3"
+      },
+      {
+        "model": "RAIDER",
+        "cc": "150"
+      },
+      {
+        "model": "REVO",
+        "cc": "110"
+      },
+      {
+        "model": "UK",
+        "cc": "113"
+      },
+      {
+        "model": "UV",
+        "cc": "125"
+      }
+    ]
+  },
+  {
+    "no": "82",
+    "brand": "YAMAHA",
+    "models": [
+      {
+        "model": "ACRUZO",
+        "cc": "125"
+      },
+      {
+        "model": "CUXI",
+        "cc": "101"
+      },
+      {
+        "model": "BW'S",
+        "cc": "124"
+      },
+      {
+        "model": "EXICITER",
+        "cc": "150"
+      },
+      {
+        "model": "EXICITER",
+        "cc": "135"
+      },
+      {
+        "model": "GRAVITA",
+        "cc": "114"
+      },
+      {
+        "model": "JUPITER",
+        "cc": "110"
+      },
+      {
+        "model": "MIO",
+        "cc": "113"
+      },
+      {
+        "model": "keyZZA",
+        "cc": "155"
+      },
+      {
+        "model": "SIRIUS",
+        "cc": "100"
+      }
+    ]
+  },
+  {
+    "no": "104",
+    "brand": "VINFAST",
+    "models": [
+      {
+        "model": "KLARA",
+        "cc": "2.05"
+      },
+      {
+        "model": "KLARA",
+        "cc": "1.75"
+      },
+      {
+        "model": "IMPES",
+        "cc": "1.7"
+      },
+      {
+        "model": "LUDO 1.1",
+        "cc": "1.1"
+      }
+    ]
+  },
+  {
+    "no": "106",
+    "brand": "SYM",
+    "models": [
+      {
+        "model": "002",
+        "cc": "125"
+      },
+      {
+        "model": "ABELA",
+        "cc": "111"
+      },
+      {
+        "model": "AMIGO",
+        "cc": "50"
+      },
+      {
+        "model": "ANGELA",
+        "cc": "108"
+      },
+      {
+        "model": "ELEGANT",
+        "cc": "100"
+      },
+      {
+        "model": "ELEGANT",
+        "cc": "110"
+      },
+      {
+        "model": "HUSKY CLASSIC",
+        "cc": "124"
+      },
+      {
+        "model": "POWER",
+        "cc": "81"
+      },
+      {
+        "model": "SHARK",
+        "cc": "170"
+      },
+      {
+        "model": "STAR",
+        "cc": "123"
+      },
+      {
+        "model": "Z1",
+        "cc": "49"
+      }
+    ]
+  },
+  {
+    "no": "136",
+    "brand": "KYMCO",
+    "models": [
+      {
+        "model": "LIKE 50",
+        "cc": "50"
+      },
+      {
+        "model": "LIKE 125",
+        "cc": "125"
+      }
+    ]
+  },
+  {
+    "no": "145",
+    "brand": "YADEA",
+    "models": [
+      {
+        "model": "BUYE",
+        "cc": "2.1"
+      },
+      {
+        "model": "E3",
+        "cc": "1.4"
+      },
+      {
+        "model": "G5",
+        "cc": "2.4"
+      },
+      {
+        "model": "ULIKE",
+        "cc": "1.6"
+      }
+    ]
+  }
+]
